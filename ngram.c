@@ -17,7 +17,7 @@ struct Queue* createQueue(); 															// fungsi buat bikin queue/antrian b
 void enQueue(struct Queue* q, char katabaru[100]); 										// fungsi buat nambah isinya queue
 void deQueue(struct Queue* q); 															//fungsi buat mengurangi isinya queue
 void print(struct Queue* q); 															// fungsi buat ngeprint semua isi queue
-void buatgram(FILE *fptr, struct Queue* q,int jumlahgram); 								//fungsi buat ngebuat gram yang jadi patokan
+void buatgram(struct Queue* semua, struct Queue* q,int jumlahgram); 								//fungsi buat ngebuat gram yang jadi patokan
 void printnext(struct Queue* semua, struct Queue* q,int gram,int jumlah);	// print next ini buat nyari kata selanjutnya yang mungkin
 void printrandom(struct Queue* mungkin,struct Queue* q);								//ini buat ngeprint kata selanjutanya dan ambil random
 																						//fungsi printrandom aku satuin sama printnext
@@ -48,17 +48,15 @@ int main(){
 	}
 	semuakata->rear->next = semuakata->front;
 	fclose(fp);
-	fp = fopen(filename,"r");
-	buatgram(fp,q,gram);																//ini buat ngebuat gramnya yang jadi patokan
+	buatgram(semuakata,q,gram);																//ini buat ngebuat gramnya yang jadi patokan
 	
 	
 	print(q);																		//ini cuma ngeprint sih biar tau kalau gramnya kebuat										
 	
-	while(i<7){
+	while(i<jumlahkata){
 		printnext(semuakata,q,gram,jumlahkatafile);
 		i += 1;
 	}
-	printf("cok");
 	return(0);
 }
 
@@ -108,7 +106,7 @@ void printnext(struct Queue* semua, struct Queue* q,int gram,int jumlah){
 	struct Queue* katamungkin = createQueue();
 	temp1 = q->front;
 	temp2 = semua->front;
-	while(i<jumlah){																	
+	while(i<=(jumlah+gram)){																	
 		if(hitung==gram){
 			enQueue(katamungkin,temp2->kata);
 			hitung = 0;
@@ -127,15 +125,23 @@ void printnext(struct Queue* semua, struct Queue* q,int gram,int jumlah){
 	printrandom(katamungkin,q);
 	return;
 }
-void buatgram(FILE *fptr, struct Queue* q,int jumlahgram){
-	int i = 1;
-	char katasementara[100];
+void buatgram(struct Queue* semua, struct Queue* q,int jumlahgram){
+	int i = -1;
+	struct QNode* temp = (struct QNode*)malloc(sizeof(struct QNode));
+	time_t t;
+	srand((unsigned) time(&t));
+	temp = semua->front;
+	while(i<((rand()%50)+1)){
+		temp = temp->next;
+		i+= 1;
+	}
+	i = 1;
 	while(i<=jumlahgram){
-		fscanf(fptr,"%s",katasementara);
-		enQueue(q,katasementara);
+		temp = temp->next;
+		enQueue(q,temp->kata);
 		i += 1;
 	}
-	fclose(fptr);
+	return;
 }
 void print(struct Queue* q){
 	struct QNode* temp = (struct QNode*)malloc(sizeof(struct QNode));
