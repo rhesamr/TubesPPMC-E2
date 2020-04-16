@@ -1,0 +1,243 @@
+MODUL 4 PENGUAT DIFFERENSIAL
+Jonathan Salomo (18318045)
+Asisten:  / 183
+Tanggal Percobaan: 18/03/2020
+EB2200-Praktikum Teknik Biomedis I
+Laboratorium Dasar Teknik Elektro - Sekolah Teknik Elektro dan Informatika ITB
+
+ 
+Abstrak
+Percobaan kali ini bertujuan untuk mengenali mekanisme kerja penguatan differensial dengan transistor BJT pada berbagai kondisi. Variabel bebas yang akan digunakan pada percobaan ini adalah resistor, sumber arus, dan beban aktif. Pemberian resistor pada terminal emitter  BJT digunakan untuk menekan penguatan common-mode. Penguatan differensial dan common mode sesuai dengan perbandingan resistansi output terhadap resistansi input. Pemberian resistor degenerasi akan meningkatkan resistansi input sehingga penguatan differensial dan common-mode akan berkurang.  Lalu, penggunaan sumber arus digunakan untuk mencegah transistor berada pada kondisi tidak match. BJT, seperti halnya komponen elektronika lainnya, memiliki parameter – parameter, seperti konduktivitas dan resistansi sinyal kecil, yang tidak bisa dijamin sama pada semua waktu. Pada BJT, nilai arus DC pada collector dapat mengatur mayoritas parameter tersebut. Karena itu, digunakan sumber arus DC yang nilainya tetap & sama pada kedua BJT. Penggunaan current mirror juga berguna untuk meregulasi keluaran rangkaian differential amplifier, terutama untuk meningkatkan CMRR (Common Mode Rejection Ratio). CMRR yang tinggi menandakan nilai penguatan common mode menuju unity ( = 0). 
+Kata kunci: BJT, Penguat differensial, common mode, CMRR
+1.	PENDAHULUAN 
+Modul Penguat Differensial terdiri atas 3 sub-modul, yaitu penguat differensial dengan bias resistor, penguat differensial dengan bias cermin arus, dan penguat differensial dengan bias cermin arus dan beban aktif.  Pada sub-modul pertama, akan dilakukan pengukuran terhadap keluaran single-ended pada kedua collector dan keluaran differensial dengan variabel bebas resistor bias (perubahan nilai) dan resistor degenerasi (ada / tidak). Semua pengukuran dilakukan dengan masukan tegangan input differensial dan common mode. Pada sub modul kedua, dilakukan pengukuran keluaran single-ended pada kedua terminal collector dan keluaran differensial dengan bias current mirror di emitter. Lalu, pada sub-modul ketiga, penguat differensial diberikan bias current mirror dan beban aktif. Keluaran yang diukur adalah output single-ended pada masing – masing collector dan keluaran differensial. Akan diberikan juga kapasitor pada terminal output untuk meninjau pengaruhnya terhadap keluaran.
+2.	STUDI PUSTAKA
+2.1	BIPOLAR JUNCTION TRANSISTOR
+Bipolar Junction Transistor (BJT) merupakan komponen elektronika berbahan semikonduktor yang memiliki fungsi utama sebagai switch dan penguat. BJT terdiri atas 3 terminal, yaitu Collector, Base, dan Emitter. Ketiga bagian ini dapat tersusun atas materi semikonduktor yang berbeda, bergantung pada konfigurasi BJT yang digunakan. BJT dapat disusun dalam 2 skema berbeda, yaitu P-N-P dan N-P-N. Dalam skema PNP, tegangan tertinggi BJT terdapat pada emitter sehingga arus akan mengalir menuju collector. Sebaliknya, pada skema NPN, tegangan tertinggi BJT terletak di Collector sehingga arus listrik akan mengalir dari Collector menuju Emitter.
+ 
+Gambar 2.1 Tampilan Rangkaian Integrator [1]
+Sebagai penguat, BJT memiliki beberapa karakteristik yang dapat diamati, seperti karakteristik input (IC – VBE) dan output (IC – VCE). Karakteristik ini dapat digunakan untuk menentukan pengaruh Bias pada transistor sebagai penguat.
+ 
+Gambar 2.2 Karakteristik Output IC – VCE [2]
+ 
+Gambar 2.3 Karakteristik Input IC - VBE [3]
+2.2	RANGKAIAN DIFFERENSIAL
+ 
+
+ 
+ 
+Rangkaian penguat differensial merupakan skema rangkaian penguat tegangan menggunakan sepasang transistor yang match. Penguat tipe ini menerima dua buah input dengan besar yang sama dan polaritas yang bertolak belakang. Secara umum, penguat differensial memiliki 2 jenis masukan, yaitu masukan differensial dan masukan common mode. Penguat ini akan memperkuat penguatan differensial dan menekan penguatan common mode. 
+ 
+ 
+Sama seperti penguat lainnya, faktor penguatan penguat differensial dapat ditinjau dari resistansi input dan output-nya. Karena kedua transistor yang digunakan match , analisis penguatannya dapat dilakukan menggunakan tampilan half-circuit. Dalam kondisi balanced output (keluaran ada di kedua transistor), dapat ditentukan nilai vo melalui analisis sinyal kecil. 
+ 
+ 
+Faktor penguatan yang dimiliki penguat differensial dapat diatur melalui modifikasi komponen bias dan beban, seperti melalui penambahan sumber arus dan current mirror pada emitter serta beban aktif di collector. Secara umum, komponen – komponen tersebut menentukan nilai arus DC sehingga dapat mengubah parameter – parameter AC dalam analisis sinyal kecil.
+2.3	CURRENT MIRROR
+ 
+
+
+Rangkaian current mirror merupakan rangkaian elektrik yang berguna untuk menyalin suatu nilai arus tertentu pada nodal / cabang rangkaian lainnya. Rangkaian elektronika mengutamakan optimasi spasial, seperti dalam IC design. Karena itu, agar rangkaian tidak memerlukan terlalu banyak catu daya, dibutuhkan konfigurasi yang dapat memunculkan nilai arus tertentu. Current mirror akan menyalin arus berdasarkan nilai ß pada transistor. Sebuah current mirror dapat terdiri atas banyak transistor dan hanya memerlukan satu arus referensi. Karena itu, current mirror dapat menyalin arus secara cepat & akurat dalam rangkaian elektronika.
+
+
+2.4 VOLTAGE TRANSFER CHARACTERISTICS
+ 
+
+
+Voltage Transfer Characteristics (VTC) merupakan tampilan tegangan keluaran sebagai fungsi dari tegangan masukan / input yang berguna untuk meninjau faktor penguatan suatu rangkaian listrik / elektronika [9]. Grafik yang terbentuk merupakan karakteristik output-ideal rangkaian penguat tersebut. Dari plot tersebut, grafik dapat dibagi berdasarkan nilai faktor penguatan. Pembagian tersebut dapat digunakan untuk menentukan berbagai mode kerja penguat pada nilai tegangan input/output tertentu sehingga penguat dapat digunakan sesuai karakteristiknya.
+3.	METODOLOGI
+3.1	ALAT DAN KOMPONEN
+Alat dan Komponen :
+1.	Osiloskop 
+2.	Generator Sinyal
+3.	Kit Praktikum Penguat Differensial
+4.	Multimeter 
+5.	Kabel dan asesori pengukuran
+6.	Catu Daya ter-regulasi (2 buah)
+
+
+
+
+
+
+
+3.2	LANGKAH PERCOBAAN
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+4.	HASIL DAN ANALISIS
+ 
+ 
+  
+  
+Pada percobaan ini, praktikan ingin menentukan karakteristik penguat Kelas A. Pertama, praktikan ingin menentukan batas saturasi penguat kelas A. Pada gambar 4-1, terlihat bahwa penguat ini memiliki linieritas yang cukup baik, terbukti dengan gelombang input dan output yang sefasa. Kualifikasi ini diperkuat dengan grafik VTC pada gambar 4.2. Pada grafik tersebut, terlihat bahwa grafik memiliki gradien mendekati 1, diukur dari kotak satuan pada bidang gambar. Namun, dari sisi efisiensi, sekilas dapat terlihat bahwa penguat kelas ini tidak memiliki efisiensi yang baik, ditinjau dari amplituda tegangan output dan input pada gambar 4.1. Aspek ini akan ditinjau pada pengamatan kuantitatif.
+ 
+ 
+ 
+ 
+Pada percobaan ini, praktikan ingin menentukan pengaruh beban (RL) terhadap karakteristik rangkaian. Berdasarkan gambar 4-3 dan gambar 4-4, terlihat bahwa nilai resistansi beban memiliki pengaruh besar terhadap tegangan batas saturasi rangkaian dengan korelasi negatif. Lalu, pada gambar 4-4, terlihat pula bahwa amplituda tegangan output terletak lebih jauh terhadap tegangan input dibanding gambar 4-3. Hal ini disebabkan oleh rating daya yang dipasang pada beban. Rating daya tersebut menurunkan batas atas tegangan pada rangkaian sehingga tegangan output “terpotong” / terdistorsi pada nilai yang lebih rendah. 
+Di sisi lain, pengamatan terhadap perbandingan Grafik VTC pada gambar 4-2 dan 4-4 menunjukkan bahwa rangkaian Penguat Kelas A cukup linier, terutama secara kualitatif dengan gradien mendekati 1. Artinya, Penguat A memiliki linieritas yang sangat baik.
+ 
+ 
+
+  
+  
+Pada percobaan ini, praktikan ingin mengamati karakteristik distorsi harmonik pada penguat kelas A melalui fungsi Fast Fourier Transform (FFT). FFT merupakan fungsi pada osiloskop yang berguna untuk mengkomputasi total Discrete Fourier Transform (DFT) pada sinyal output dan input. Dalam praktikum ini, FFT digunakan untuk menentukan besar distorsi harmonik, yaitu nilai distorsi pada frekuensi harmonik. Besar amplituda (dalam dB) berbanding lurus dengan besar distorsi harmonik pada keluaran Vo & Vi penguat.
+Berdasarkan gambar 4-5, 4-7, dan 4-8, terlihat bahwa penguat kelas A memiliki distorsi harmonik pada frekuensi dasar (1kHz) dan frekuensi – frekuensi harmoniknya, khususnya harmonik pertama, kedua, dan ketiga. Namun, besar distorsi harmonik ini berkurang seiring dengan kenaikan frekuensi harmonik, terlihat dari kecenderungan pada ketiga gambar tersebut. Artinya, Penguat Kelas A memiliki linieritas yang semakin baik pada frekuensi tinggi. 
+ 
+ 
+Pada percobaan ini, praktikan ingin mengukur efisiensi Penguat Kelas A sebagai Penguat Daya. Parameter yang diukur oleh praktikan adalah daya catu, daya disipasi pada penguat, dan daya beban. Daya terdisipasi yang praktikan ukur adalah daya disipasi pada BJT.
+Berdasarkan tabel 4-1, terlihat bahwa Penguat Kelas A memiliki efisiensi yang tidak terlalu baik, sesuai dengan analisis terhadap gambar 4-1. Terlihat bahwa perbandingan nilai daya terdisipasi terhadap nilai daya beban cukup besar. Artinya, penguat kelas ini merupakan tipe penguat yang mudah panas sehingga sebaiknya tidak digunakan pada rangkaian bertegangan tinggi, mengingat korelasi positif antara tegangan dan daya pada catu.
+Pada nilai yang tercatat, terlihat bahwa penguatan daya penguat A berada di kisaran 50%. Padahal, faktor penguatan dayanya tidak mungkin melebihi 40%. Kesalahan ini kemungkinan disebabkan oleh penggunaan daya catu. Pada saat praktikum, praktikan hanya mengukur salah satu catu dan melakukan multiplikasi dengan faktor 2. Padahal, kemungkinan arus yang dihasilkan berbeda.
+
+ 
+ 
+Pada percobaan ini, praktikan ingin meninjau karakteristik Penguat Kelas B secara umum. Berdasarkan gambar 4-10, terlihat bahwa Penguat Kelas B memiliki linearitas yang tidak terlalu baik, terbukti dengan perbedaan fasa antara sinyal output dan input. Pada gambar, beda fasa tidak terlalu terlihat akibat nilai time/div yang kecil. Selain itu, penguat kelas B seharusnya memiliki penguatan yang cukup efisien dengan disaktivasi BJT pada penguat yang cepat (keluaran turun lebih cepat & naik lebih lama dibanding tegangan input). Karakter – karakter ini akan ditinjau melalui percobaan berikutnya.
+
+ 
+ 
+
+ 
+ 
+Pada percobaan ini, praktikan ingin melakukan pengamatan kualitatif terhadap linieritas rangkaian Penguat Daya Kelas B menggunakan Voltage Transfer Characteristics (VTC). Berdasarkan gambar 4-11, terlihat bahwa linieritas rangkaian ini tidak terlalu baik, dibuktikan dengan aktivasi rangkaian yang baru terjadi saat Vi = 2Vpp. Salah satu aspek yang memengaruhi karakteristik ini adalah cut-off distortion (crossover distortion) akibat matinya kedua transistor bipolar pada Vbe < ±0.7 V. Faktor distorsi ini akan dibahas lebih lanjut pada FFT.
+  
+  
+  
+Pada percobaan ini, praktikan ingin meninjau karakteristik distorsi pada Penguat Tipe B. Penguat Tipe B memiliki crossover distortion, distorsi yang terjadi ketika kedua transistor bipolar mendapat tegangan masukan lebih rendah dari ± 0.7 V sehingga keduanya berada dalam mode cut-off. Akibatnya, dalam rentang nilai tegangan input tersebut, tidak ada tegangan keluaran yang dihasilkan. 
+Berdasarkan gambar 4-12, 4-13, dan 4-14, terlihat bahwa sinyal keluaran Penguat Kelas B memiliki distorsi di frekuensi – frekuensi harmoniknya. Berdasarkan amplituda distorsi harmonik, terlihat bahwa amplituda distorsi tidak menurun secara signifikan pada nilai frekuensi yang meningkat. Selain itu, pada amplituda 60 – 80 dB, besar distorsi Penguat Kelas B lebih besar dari Penguat Kelas A (kira – kira 30 dB). 
+	
+ 
+ 
+
+Pada percobaan ini, praktikan ingin mengukur efisiensi Penguat Kelas B sebagai Penguat Daya. Parameter yang diukur oleh praktikan adalah daya catu, daya disipasi pada penguat, dan daya beban. Daya terdisipasi yang praktikan ukur adalah daya disipasi pada BJT sebagai representasi daya yang terbuang. 
+Berdasarkan tabel 4-2, terlihat bahwa Penguat Daya Kelas B tidak mendisipasi daya terlalu besar dibanding Penguat Kelas A. Penilaian ini dilakukan berdasarkan rasio daya terdisipasi terhadap daya pada beban sebagai daya keluaran. Selain itu, penurunan daya terdisipasi akan meningkatkan daya yang diperoleh pada beban. Hal ini terbukti dari perbandingan gain daya pada Tabel 4-1 dan 4-2 dalam tegangan input yang sama.
+Aspek lain yang dapat ditinjau adalah ketahanan penguat. Penguat Kelas B memiliki daya tahan yang baik, terutama dalam rangkaian bertegangan tinggi. Karakteristik ini ditinjau dari nilai daya terdisipasi yang relatif lebih rendah dibanding penguat Kelas A. Terlihat juga bahwa voltage berpengaruh cukup besar terhadap besar daya terdisipasi sehingga besar daya terdisipasi lebih mudah dikontrol dibanding Penguat Kelas A. 
+
+ 
+ 
+
+  
+Pada percobaan ini, praktikan ingin meninjau Penguat Kelas B dengan feedback op-amp sebagai kompensasi deadband pada nilai VBE < ±0.7 V. Dalam rangkaian ini, op-amp berfungsi sebagai operator logika dengan gain tegangan tidak terbatas yang dapat memberi bias hingga nilai tegangan memenuhi wave cycle yang seharusnya. Berdasarkan gambar 4-15 dan 4-16, terlihat bahwa kompensasi ini meningkatkan linieritas rangkaian Penguat Kelas B. Pengurangan crossover distortion 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pada percobaan ini, praktikan melakukan pengukuran grafik Fast Fourier Transform (FFT) untuk menentukan distorsi harmonik pada rangkaian penguat kelas B yang memiliki feedback. Op-Amp sebagai feedback memiliki karakteristik ideal berupa gain infinite pada open loop akibat rsesistansi output yang mendekati tak hingga dan resistansi input yang mendekati 0. Nilai gain yang besar ini digunakan untuk mengkompensasi tegangan yang hilang akibat crossover distortion. Pada gambar 4-22, terlihat bahwa sinyal input dan output hanya memiliki distorsi harmonik pada frekuensi dasar (keadaan DC). Gambar 4-17 memperkuat fakta ini, dibuktikan dengan bentuk keluaran input dan output yang sinusoid dan nyaris sefasa. Artinya, pemberian op amp sebagai mekanisme feedback dapat mengatasi masalah linieritas keluaran yang terjadi pada Penguat Kelas B.
+
+  
+	
+ 
+
+ 
+
+ 
+ 
+	
+ 
+
+ 
+	
+ 
+ 
+Pada percobaan ini, praktikan ingin mengetahui peran resistor R1 dan R2 terhadap karakteristik arus catu daya dan tegangan output rangkaian Penguat Kelas AB. Berdasarkan gambar 4-25, 4-26, dan 4-27, terlihat bahwa R1 dan R2 menurunkan batas saturasi rangkaian penguat kelas AB. Pada gambar 4-25, Vo & Vi berada dalam fasa yang sama, kemudian makin bergeser pada gambar 4-26 sebelum Vo terdistorsi pada gambar 4-27. Distorsi yang terjadi pada gambar ini merupakan saturation distortion, sama seperti distorsi pada penguat daya kelas A.  Analisis mengenai karakteristik distorsi akan dibahas lebih lanjut melalui analisis FFT.
+Lalu, terlihat pula bahwa amplituda gelombang sinyal output lebih kecil dari sinyal input, terutama saat nilai R1 dan R2 makin besar. Hal ini terjadi karena kompensasi deadband pada Penguat Kelas B yang dilakukan melalui dioda tidak akan mencapai 100% nilai wave cycle normal. Akibatnya, ada bagian – bagian gelombang dengan amplituda yang lebih rendah dari yang seharusnya.
+
+ 
+ 
+ 
+ 
+ 
+ 
+Pada percobaan ini, praktikan ingin menganalisis linearitas rangkaian secara kualitatif melalui grafik Voltage Transfer Characteristics (VTC). Berdasarkan gambar 4-26, 4-27, dan 4-28, terlihat bahwa linieritas rangkaian Penguat kelas AB cukup baik dengan gradien garisnya mendekati 1. Selain itu, dapat pula dilihat bahwa peningkatan nilai resistansi hambatan R1 dan R2 akan menurunkan batas saturasi dan sebaliknya. Artinya, batas saturasi rangkaian penguat ini dapat diatur dengan mudah sehingga penggunaannya cukup praktis. 
+ 
+ 
+ 
+ 
+ 
+ 
+Pada percobaan ini, praktikan ingin mengamati karakteristik distorsi harmonik pada penguat kelas AB melalui fungsi Fast Fourier Transform (FFT). FFT merupakan fungsi pada osiloskop yang berguna untuk mengkomputasi total Discrete Fourier Transform (DFT) pada sinyal output dan input. Dalam praktikum ini, FFT digunakan untuk menentukan besar distorsi harmonik, yaitu nilai distorsi pada frekuensi harmonik. Besar amplituda (dalam dB) berbanding lurus dengan besar distorsi harmonik pada keluaran Vo & Vi penguat.
+Berdasarkan gambar 4-29, 4-30, dan 4-31, terdapat beberapa aspek yang dapat dianalisis. Pertama, terlihat bahwa pada rangkaian penguat Kelas AB, distorsi baru terjadi pada frekuensi harmonik ke-3. Hal ini tentu lebih baik dibanding Penguat Kelas A yang memiliki distorsi harmonik dengan amplituda signifikan pada setiap frekuensi harmoniknya. Dengan karakteristik ini, distorsi pada Penguat AB memiliki dampak lebih kecil.
+Meskipun demikian, ketiga gambar menunjukkan amplituda distorsi harmonik yang cukup besar pada frekuensi harmoniknya. Distorsi ini merupakan saturation distortion yang terjadi karena kedua BJT dikonduksi pada waktu yang sama. Normalnya, konduksi kedua BJT sebagai kompensasi deadband akan kurang dari 100% nilai normal wave cycle. Namun, mungkin terdapat konduksi yang melebihi tegangan maksimum Penguat Kelas AB sehingga terdapat distorsi.
+ 
+ 
+Pada percobaan ini, praktikan melakukan pengukuran terhadap efisiensi penguatan daya Penguat Kelas AB. Parameter yang praktikan gunakan dalam pengukuran ini adalah daya pada resistansi beban (RL ), daya catu, dan daya yang terdisipasi. Daya terdisipasi yang praktikan gunakan adalah daya disipasi BJT penguat. Hal ini dilakukan karena keterbatasan waktu & komponen pengukur.
+Berdasarkan gambar 4-32, terlihat bahwa Penguat Kelas AB memiliki efisiensi tingkat menengah dibanding Penguat Kelas A dan B. Karakteristik ini ditentukan secara kualitatif berdasarkan besar daya disipasi dan rasionya terhadap tegangan beban. Rasio yang diperoleh lebih kecil dari B dan lebih besar dari penguat A.
+Pada nilai yang tercatat, terlihat bahwa penguatan daya penguat AB melebihi 100%. Padahal, seharusnya penguat ini bernilai antara 30% - 78,5%. Kesalahan ini kemungkinan disebabkan oleh penggunaan daya catu. Pada saat praktikum, praktikan hanya mengukur salah satu catu dan melakukan multiplikasi dengan faktor 2. Padahal, kemungkinan arus yang dihasilkan berbeda. Selain itu, praktikan juga menganggap disipasi kedua BJT yang berfungsi sebagai penguat serupa / sama. Padahal, BD139 dan BD140 memiliki spesifikasi yang berbeda sehingga menghasilkan daya disipasi yang berbeda pula.
+
+5.	KESIMPULAN
+1.	Praktikan dapat menentukan karakteristik BJT dan korelasi perubahan nilai karakteristik tersebut terhadap resistansi output, resistansi input, dan faktor penguatan.
+2.	Praktikan dapat menentukan pengaruh pemberian sumber arus pada BJT sebagai penguat, yaitu untuk memaksa BJT berada pada keadaan aktif dan meningkatkan faktor penguatan BJT
+3.	Praktikan dapat mengidentifikasi fungsi BJT sebagai penguat yang bergantung pada topologinya masing – masing (CC sebagai voltage buffer, CB sebagai komponen sound amplifier, dan CE sebagai amplifier sinyal lemah)
+4.	Praktikan dapat mengidentifikasi karakteristik masing – masing topologi (CE dengan penguatan terbesar dan pembalik polaritas, CB untuk menguatkan sinyal tanpa membalik polaritas, CC untuk mem-buffer tegangan)
+5.	Praktikan dapat menentukan karakteristik resistansi input dan output dari masing – masing topologi serta hubungannya dengan faktor penguatan 
+DAFTAR PUSTAKA
+[1]	www.allaboutcircuits.com, 08 Pebruari 2020, 10.23 WIB.
+[2]	www.electrical4u.com, 08 Pebruari 2020, 10.24 WIB
+[3]	www.stackexchange.com, 08 Pebruari 2020, 10.24 WIB.
+[4]	Mervin T. Hutabarat, Petunjuk Praktikum Teknik Biomedis I EB2200, Sekolah Elektro dan Informatika Institut Teknologi Bandung, Bandung, 2020.
+[5]	www.electronics-tutorials.ws, 07 Maret 2020, 14.29 WIB.
+[6]	Sedra & Smith, Microelectronic Circuit : 7th edition, Oxford University Press, 2015
+[7]	Iopscience.iop.org, 08 Maret 2020, 05.49 WIB.
+[8]	electronics-notes.com, 09 Maret 2020, 07.11 WIB.
+[9]	chegg.com, 09 Maret 2020, 07.12 WIB
