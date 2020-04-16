@@ -1,23 +1,1039 @@
-Autologous Bone Marrow Cell Therapy : Cara Indonesia Mengatasi Autisme untuk Generasi Emas 2045
-
-Termuat di Kompas Muda :)
-
-Indonesia Emas 2045 merupakan cita – cita luhur bangsa Indonesia. Produktivitas angkatan kerja serta dependency ratio yang sangat rendah merupakan motor penggerak perubahan tersebut. Namun, di balik faktor – faktor fisik, Indonesia masih tertinggal dalam pembangunan manusia dan masyarakat yang mumpuni, khususnya bagi kaum disabilitas. Menurut ILO, kegagalan negara dalam mewadahi kaum disabilitas dapat menurunkan GDP sebesar 3%- 7% Sayangnya, kegagalan ini tidak didukung dengan insentif yang baik oleh pemerintah. Pada Pemilu 2014, hanya 2,95% yang dapat memberikan suara. Pada APBN, pagu anggaran untuk kesejahteraan disabilitas pun hanya mendapat porsi 0,0015%, jauh dari negara – negara maju seperti yang dapat mencapai 1,1 %. Salah satu jenis disabilitas yang terdampak adalah autisme atau Autism Spectrum Disorder (ASD).
-Menurut Institute of Education London, UK, 28% penderita ASD memiliki IQ rata – rata (85>IQ>115). Bahkan, 3% di antaranya memiliki IQ superior (IQ > 115). Di sisi lain, hanya 16% penderita yang memiliki IQ sangat rendah (IQ<50). Oleh karena itu, diperlukan mekanisme rehabilitasi medis autisme untuk memaksimalkan potensi kecerdasan mereka. Salah satu metode itu adalah penanaman sumsum tulang belakang (Autologous Bone Marrow Cell Therapy).
-Autologous Bone Marrow Cell Therapy merupakan terapi sel punca (stem cell) secara mandiri menggunakan sel monosit pada sumsum tulang belakang pasien / darah. Sel ini akan ditransplantasi di Arachnoid Mater, meninges / lapisan pelindung pada otak. Pertama – tama, dilakukan assessment kepada pasien lewat MRI dan EEG untuk mengetahui kondisi awal. Lalu, tim dokter menentukan tingkat Granulocyte Colony Stimulating Factor (GCSF), glikoprotein yang mengatur pembentukan stem cell di tulang belakang, pada pasien sebelum pengambilan sampel. 
-Jika nilai GCSF mencukupi, 80 - 100?mL sumsum tulang belakang akan diambil dan disimpan dalam wadah berisi heparin untuk mencegah penggumpalan darah. Setelah itu, dengan metode density gradient, sel CD34+, sel punca hematopoetik, diambil dan ditransplantasikan di lapisan intrathecal otak pada hari yang sama untuk mengatasi hipoperfusi pada jaringan saraf yang diduga sebagai penyebab autisme. Setelah proses pencangkokan selesai, pasien akan menjalani proses terapi khusus dari berbagai aspek, seperti psikologi, terapi bicara, diet khusus, dan pengaturan aktivitas sehari – hari (Activities of Daily Leaving / ADL).
- 
-
-
-
-
-
-Metode ini merupakan diversifikasi penggunaan BMCs (Bone Monunuclear Cells) dalam terapi jaringan tulang. Pada jaringan tulang, BMCs yang ditanam pada Beta Tri-kalsium Fosfat memiliki compatibility rate hingga 95%. Dibadingkan terapi serupa, seperti penggunaan stem cell eksternal (cultivated stem cell), BMC menghasilkan pembuluh & struktur yang lebih kompleks. Konsep ini linear dengan keperluan pembentukan pembuluh darah pada sistem saraf otak & perbaikan sistem imunitas yang cukup rumit.
-
-  
-
-
-
-Autisme merupakan isu bersama. Namun, seringkali masyarakat memandang ini sebagai gangguan psikis tanpa memerhatikan aspek medis dalam penyelesaiannya. Terapi sel punca dapat meningkatkan IQ penderita autisme serta memperbaiki insentif dan kemampuan sosial. Dengan sumber daya yang mudah didapat, semoga terapi sel punca sumsum tulang belakang dapat dikembangkan dan menjadi solusi universal di seluruh dunia.
-
-
+1
+Employment Protection Legislation and SME Performance
+Yannick Van Landuyt
+KU Leuven, Faculty of Economics and Business, Department of Accountancy, Finance and Insurance. Naamsestraat 69, 3000 Leuven, Belgium. Phone: (+)32 (0)16 326658, Fax: (+)32 (0)16 326683, e-mail: yannick.vanlanduyt@kuleuven.be
+Nico Dewaelheyns (corresponding author)
+KU Leuven, Faculty of Economics and Business, Department of Financial Management. Korte Nieuwstraat 33, 2000 Antwerp, Belgium. Phone: (+)32 (0)16 326766, Fax: (+)32 (0)16 326683, e-mail: nico.dewaelheyns@kuleuven.be
+Cynthia Van Hulle
+KU Leuven, Faculty of Economics and Business, Department of Accountancy, Finance and Insurance. Naamsestraat 69, 3000 Leuven, Belgium. Phone: (+)32 (0)16 326734, Fax: (+)32 (0)16 326683, e-mail: cynthia.vanhulle@kuleuven.be
+August 2016
+This paper has been accepted for publication by the International Small Business Journal (see DOI: 10.1177/0266242616672293 for the published version)
+Abstract
+This study examines the effect of employment protection legislation (EPL) on small and medium-sized (SME) firm performance. Rather than relying on country-specific proxies for EPL, as is common in the literature, we compute firm-specific measures of a firm’s exposure to EPL by using a panel dataset of 13,112 Belgian SMEs for the period between 2000 and 2009. The empirical results show that firms perform better when faced with lower hiring and firing costs through the use of more blue-collar labour contracts. The evidence showing improved performance by firms that attempt to achieve greater flexibility by hiring more temporary workers is limited.
+Keywords
+Employment protection; firm performance; labour law; SMEs; stakeholder theory
+Acknowledgements
+The authors would like to thank Hans Degryse, Lieven De Moor, Marie Dutordoir, Frederiek Schoubben and two anonymous referees for their suggestions, and participants and discussants at the 20th Multinational Finance Conference, the 11th Corporate Finance Day, the 1st Paris Financial Management Conference and the 8th Portuguese Finance Network International Conference for useful comments on an earlier draft of this paper. The authors gratefully acknowledge financing from the FWO – Research Foundation Flanders (project number 3H120653).
+2
+Introduction
+It has been noted that non-financial stakeholders are considered to have a greater influence on firms, which themselves function as sets of interrelated contracts between many different stakeholders (Cornell and Shapiro, 1987; Harrison and Wicks, 2013; Jensen, 2001). This theory suggests that firm performance varies with the rights and relative bargaining power of multiple stakeholders; this implies that all stakeholder rights and incentives should be considered in an analysis of firm functioning (Russo and Perrini, 2010). Business and corporate finance research, however, predominantly focuses on three stakeholder types, i.e., shareholders, creditors and management. The focus on financial stakeholders has also been largely adopted by researchers in law and economics (commencing with La Porta et al., 1998). This article explicitly contributes to the literature on firm performance by examining the role of a non-financial stakeholder who engages in contracts with firms: employees. More specifically, we examine the impact of employment protection legislation (EPL) on small and medium sized (SME) firm profitability.
+Traditionally, the literature has focused on the effects of EPL on employment (Addison and Teixeira, 2003; Autor et al., 2006; Bentolila and Bertola, 1990) and on labour productivity (Ichino and Riphahn, 2005; Nickell and Layard, 1999). These studies usually commence from a labour market stance, studying the trade-off between protecting the rights of individual employees and the costs EPL imposes. For instance, Hopenhayn and Rogerson (1993) and Kambourov (2009) argue that high employment adjustment costs hamper the reallocation of labour from declining industries into new ones, which would negatively affect economic growth. Studies in the wake of Lazaer’s (1990) seminal paper have often made a connection between cross-country differences in EPL and higher
+3
+unemployment rates and longer average periods of unemployment. This has encouraged many governments and international organizations to make a case for labour market deregulation (Coudouel and Paci, 2006). Since the early 2000s, however, the focus of the EPL-literature has shifted towards the impact of regulatory hiring and firing costs on individual firms’ decision-making processes. Examples include research on the effect of EPL on firm investment (Besley and Burgess, 2004; Radulescu and Robson, 2013), multinationals’ location decisions (Dewit et al., 2009; Javorcik and Spatareanu, 2005), venture capital investments (Bonini and Alkan, 2012; Bozkaya and Kerr, 2014), debt policy (Simintzi et al., 2015) and employment relationships (Atkinson et al., 2016).
+The expected effect of employment regulation on firm profitability, however, remains unclear from the evidence within the previous literatures. On the one hand, firms subject to restrictive employment protection regulation incur large compliance costs, which may hamper their production processes (Autor et al., 2007). On the other hand, firms can make use of stricter EPL to motivate workers to invest in gaining the knowledge they need to improve efficiency and so to contribute to enhanced profitability (Bassanini et al., 2009). This article empirically examines the overall impact of EPL on firm performance. By using a sample of Belgian SMEs, we contribute to the literature on EPL as first, the existing literature mainly applies country-specific employment protection legislation indices (Atanassov and Kim, 2009; Radulescu and Robson, 2013). The use of country-specific variables, however, implicitly assumes that the level of employment protection is the same for all employees in a given country and that a firm cannot differentiate in terms of employment protection. If firms’ owners/managers can choose between different types of labour contracts, this assumption is violated. We therefore, use firm-specific variables to measure the extent to which firms are subject to employment protection; this
+4
+is possible as all Belgian limited liability firms (including SMEs) not only are required to disclose financial data but also have a legal obligation to provide up to 174 items of workforce-related information. This is among the most stringent reporting requirements in Europe.
+Second, our Belgian setting allows us not only to compute firm-specific variables for a very large set of companies but also to define a unique firm-specific EPL variable. In the few studies where a firm-specific employment protection variable is used, the variable is based on the differences between temporary and permanent workers (Valverde et al., 2000). The reasoning is that temporary workers provide labour flexibility as dismissal costs are limited in comparison with dismissal costs for permanent employees. This study not only makes use of the difference between temporary and permanent workers but also accounts for the difference between Belgium’s distinct white-collar and blue-collar employment contracts. Employees bound by a white-collar contract are granted substantially more employment protection by law. Therefore, it is less expensive for firms to hire and fire blue-collar employees than their white-collar counterparts. Differences in blue and white-collar contract types may thus be more important than differences between temporary and permanent contracts, as the average percentage of blue-collar workers in a firm is 66%while temporary workers represent only 4% of the workforce in our sample.
+Third, our sample comprises SMEs, while the majority of the existing literature limits the analysis to large quoted companies, partly owing to data availability issues. Studying the effects of EPL for large firms is more likely to introduce noise since quoted companies often have employees in many different countries, which all impose diverse employment protection rules. In addition, the issue of addressing EPL with regard to flexibility in
+5
+decision making and the potential of layoffs may also be relatively more important for SMEs given the entrepreneurial environment, small size and lower diversification.
+The results indicate that firms that are less hampered by hiring and firing costs and that are consequently more flexible in adjusting their workforce perform better. Firms that hire more blue-collar workers, who are less expensive to fire than white-collar workers, have higher levels of return on assets and of value added. Furthermore, firms perform better if they hire relatively more workers under a blue-collar contract than firms commonly hire in the industry. The employment of temporary workers does not have a consistently significant effect on performance in our multivariate analyses; however, the lack of significance may arise because firms in our sample make relatively little use of this form of employment. The findings are also robust for various changes in the estimation approach and model specifications.
+The remainder of the article proceeds as follows. The next section describes the preceding literature on the topic. Then, hypotheses are formulated, the empirical model is developed, and variables are defined. A description is then provided of the sample and univariate statistics, followed by a discussion of the results of the empirical analyses and robustness checks. The final section concludes the study, gives an overview of the study’s limitations and provides avenues for further research.
+Employment protection and performance: The literature
+EPL is defined as any set of rules that limits an employer’s ability to dismiss an employee without delay or costs. For example, these rules include administrative procedures, trial periods, notices of termination, severance payments, measures that increase the difficulty of dismissal and additional measures for collective dismissals
+6
+(Addison and Teixeira, 2003; Pissarides, 2001). A firm that is subject to less restrictive employment protection rules by definition has fewer hiring and firing costs (Bertola, 1994; Bird and Knopf, 2009; Lazear, 1990). From here onwards, we will refer to a firm that is subject to less restrictive EPL rules as a flexible firm.
+Theory predicts that stricter employment protection rules can have a negative effect on firm performance or, equivalently, that less strict EPL can have a positive effect on performance. Several justifications underlie such theory. First, by definition, it is less expensive to lay off non-productive workers if firms are less hampered by legal hiring and firing costs. Consequently, less restrictive EPL allows firms to allocate human capital more efficiently and at a lower cost, which is expected to have a positive effect on firm performance (Autor et al., 2007; Bauernschuster, 2013; Bertola, 1994).
+Second, as firms can adjust their workforce and curtail wage expenditures more quickly, fluctuations in customer demand and volatility of returns may be mitigated more easily in less restrictive EPL systems (Lane et al., 1998; Michie and Sheehan-Quinn, 2001; Valverde et al., 2000). Indeed, some evidence suggests that firms in volatile sectors are more sensitive to EPL. For instance, Cuñat and Melitz (2012) argue that firms in volatile sectors that operate in a weak employment protection regime have a comparative advantage in international trade, and they find that volatile sectors are larger in countries with more labour flexibility.
+The third argument is based on the effect of EPL on productivity. Indeed, more labour protection may have a negative effect on productivity for the following reasons. From the employers’ viewpoint, hiring and firing costs increase the productivity threshold at which firms are willing to dismiss workers. Consequently, firms employ unproductive workers
+7
+longer when EPL is strict (Autor et al., 2007; Bassanini et al., 2009; Bird and Knopf, 2009). Several empirical studies confirm the negative effect of strict labour regulation on productivity (Autor et al., 2007; Bassanini et al., 2009; Besley and Burgess, 2004; Cingano et al., 2010; Ichino and Riphahn, 2005; Kleinknecht et al., 2006). If firms are less productive under a strict employment protection regime, they are expected to be less profitable than a comparable flexible firm.
+In contrast, several counter-arguments suggest that stricter employment protection has a positive effect on firm performance. First, it is less costly to dismiss workers in an environment in which employees are weakly protected by EPL. As employees in such firms face the possibility of being discharged unexpectedly, they are not motivated to invest in specialized skills. Further, if a firm is faced with workers who are not sufficiently skilled or who are not willing to improve their skills, the firm may experience lower profitability. Providing evidence of disturbed adoption of skills in high EPL countries, Gust and Marquez (2004) demonstrate that such circumstances impede the implementation of information technologies and slow down productivity growth. Furthermore, a firm in a low employment protection setting will have to offer higher wages as a hedge against the increased risk of being dismissed in order to attract specialized and skilled employees who are willing to invest in firm-specific human capital. These extra labour costs increase firms’ production costs and may thus reduce firm profitability (Bassanini et al., 2009; Belot et al., 2007; Lane et al., 1998; Michie and Sheehan-Quinn, 2001; Pissarides, 2001).
+A strand in the EPL literature related to this last argument examines whether innovation, which is an activity that thrives on knowledge, is affected by EPL. As greater hiring and firing costs increase the willingness of workers to invest in skills, firms are
+8
+expected to be more innovative in rigid labour markets. Acharya et al. (2014) indeed find that dismissal laws appear to have an ex-ante positive incentive effect by encouraging firms and their employees to engage in more successful innovative pursuits. Since innovation is stimulated in rigid labour markets while also having a positive impact on performance (Blundell et al., 1999; Roberts, 1999), firm profitability is expected to be lower in firms that are subject to low EPL standards.
+Next, since flexibility may have a detrimental impact on social cohesion and trust between employees and employers and potentially facilitates the leaking of trade secrets and knowledge, firms in a flexible employment environment will have to monitor employees to a greater extent (Kleinknecht et al., 2006). These monitoring costs may also hinder performance in a flexible regime.
+The empirical literature mostly provides evidence of a negative impact of EPL on financial performance, which is measured by using different proxies of EPL and various methods. For instance, Abraham (2004) uses an event study to demonstrate that shareholder returns fall in response to decisions that impose firing costs on American firms. Bird and Knopf (2009) confirm that the adoption of wrongful discharge protection by U.S. state courts increases labour expenses while also negatively affecting profitability. In a study on Chinese firms, Lane et al. (1998) show that less labour flexibility, measured as the speed of adjustment to demand shocks, negatively affects profitability. Valverde et al. (2000) and Lepak et al. (2003) also find that firms perform better if they are less subject to EPL. Based on survey data originating from twelve European countries, Valverde et al. (2000) report a positive relationship between levels of temporary workers and firm performance. The results of Lepak et al. (2003) for US firms indicate that hiring more flexible workers to perform contract work is positively
+9
+associated with profitability and stock market performance. Furthermore, Almeida and Carneiro (2009) show that in areas in Brazil in which the enforcement of employment laws is strict – i.e., areas with de facto high employment protection – firms are smaller and have lower turnover and output. Martins (2009) finds that Portuguese firms with greater employment flexibility exhibit increases in total sales and surplus per worker. Using survey data from the UK, Michie and Sheehan-Quinn (2001) are the only researchers to have found that short-term contracts, a lack of employer commitment to job security, low levels of training and low levels of human resource sophistication – and thus greater flexibility – negatively affect corporate financial performance.
+Based on theoretical concepts from the literature, the effect of employment flexibility on firm performance is unclear. Most of the existing evidence leads us to expect that firms will perform better when they are subject to less employment protection. However, whether this is also the case in our SME setting remains an empirical question.
+Flexibility and hypotheses
+In Belgium, two legal distinctions in types of employee contracts allow firms to influence employment flexibility. The first type of flexibility is provided by the distinction between blue-collar worker (arbeider/ouvrier) and white-collar worker (bediende/employé) contracts1. With this distinction, employee contracts are classified according to the nature of the job. According to the Law on Employment Contracts, a blue-collar worker is an employee who primarily performsmanual work, while a white-collar worker’s job mainly consists of intellectual work. In recent decades, however, the link between the type of labour and the contract type has become blurred as the distinction between manual and intellectual labour has become unclear, which provides flexibility for employers and
+10
+employees in reaching an agreement. If an employee feels that his or her rights are being violated by having been given an inappropriate contract type, he/she can go to labour court where judges have wide discretionary powers in deciding case by case whether an employee is a ‘true’ white- or blue-collar worker. Consequently, in practice, it is not feasible to offer employees with pure white-collar job content a blue-collar contract (although some anecdotal evidence suggests that firms in distress have sometimes offered skilled workers the choice between dismissal and a contract change), as doing so is highly unlikely to be upheld in labour court. However, it is possible to give a white-collar contract to employees who do work that would typically be considered blue collar in job negotiations or as a reward (instead of a promotion and/or wage increase), as doing so is to the advantage of the employee (Engels, 2002).
+During our sample period, white-collar workers are substantially more protected by law than blue-collar workers: their trial period and terms of notice are longer; their contracts cannot be interrupted because of economic reasons, technical disturbance or weather conditions; and the rules concerning the inability to work in the case of illness for white-collar workers are more favourable than those for blue-collar workers (Blanpain, 2010). To give a specific example, the legal period for required notice of a blue-collar worker with five years of seniority is 28 days if he or she is fired by the employer. In contrast, the period of notice for a white-collar worker with the same level of seniority is at least six months, but it may be even longer depending on the employee’s wage. Consequently, employers can dismiss blue-collar workers more easily and at a lower cost, and they are therefore more flexible when they hire more blue-collar workers. This leads us to the first testable hypothesis:
+11
+H1a. Firms that use more flexible (blue-collar) labour contracts have higher performance.
+It goes without saying that the number of blue-collar employees is highly dependent on the industry in which the firm is active. We will therefore also explore an industry-adjusted version of Hypothesis 1:
+H1b. Firms that use relatively more flexible (blue-collar) labour contracts than their industry peers have higher performance.
+The second type of employment flexibility is based on the difference between permanent and temporary employment agreements. In Belgium, as in most other European countries, employment contracts can be categorized according to the duration of the contract. There are three relevant categories of contracts: permanent contracts, fixed-term contracts and fixed-job contracts. If an employer hires an employee for a fixed period or a fixed job, the employer has the choice of renewing the contract or ceasing collaboration at the end of the period or when the job is completed. Firms do not have to pay any firing costs at the end of the contract. Goux et al. (2001) indeed find that it is less costly to adjust the number of fixed-term workers than the number of permanent workers in a firm. Therefore, firms are more flexible in terms of EPL if they hire more temporary workers and fixed-job workers than permanent workers. In line with Hypotheses 1a and 1b, this leads to the following testable hypotheses:
+H2a. Firms that use more temporary labour contracts have higher performance.
+H2b. Firms that use relatively more temporary labour contracts than their industry peers have higher performance.
+12
+Model and variables
+To examine the effect of employment flexibility on performance, we use a least squares regression model in which we include both industry and year effects. In equation (1), fi are the industry dummies, tt are the time dummies and ei,t is the error term, which is clustered at firm level (Petersen, 2009).2
+Performancei,t = a + ß0 Flexibilityi,t-1 + ßi Control Variablesi,t-1 + fi + tt + ei,t (1)
+The independent variable Flexibilityit, which captures the labour flexibility of firm i in year t, is the variable of interest in our setting. The flexibility variables BCit and FLEXbcit are based on the legal difference between blue-collar and white-collar workers. BCit is the percentage of blue-collar workers in the total workforce a firm i employed in year t expressed in full-time equivalents. FLEXbcit stands for the percentage of blue-collar workers in full-time equivalents that firm i employs relative to its industry peers in year t. This variable is computed by subtracting the median percentage of blue-collar workers in the industry of firm i in year t from the percentage of blue-collar workers in that firm.3 Industries that contain less than twenty firms per year are excluded for the composition of FLEXbcit to ensure that the empirical industry-year median represents a reliable measure of centrality.4 The advantage of using FLEXbcit is that the value of this variable immediately shows the extent to which a firm is flexible: if it is positive, the firm has to pay fewer hiring and firing costs and is consequently more flexible than the industry median, and if it is negative, it has to pay more costs.
+As in Lepak et al. (2003) and Valverde et al. (2000), the number of temporary workers is used to create a second type of variable for employment flexibility. The variable FTit stands for the percentage of fixed-term and fixed-job workers in firm i at time t expressed in full-time equivalents.5 FLEXftit is an industry-corrected flexibility measure and is
+13
+constructed by subtracting the median percentage of fixed-term employees in the industry of firm i in year t from the percentage of fixed-term workers in firm i. As with FLEXbcit, industries containing fewer than twenty firms are not taken into account. Further, if FLEXftit is positive, the firm is less hindered by firing costs and consequently more flexible in comparison with the median firm of its industry, and if the variable is negative, it is more hindered by hiring costs and less flexible. An overview of the definitions of these variables and of the variables discussed below is given in Table 1.
+[Insert Table 1 Here]
+The dependent variable is firm performance. The dataset contains SMEs, and for that reason, our sample contains firms that are not listed on the stock exchange. Consequently, market-based profitability measures, such as Tobin’s Q, cannot be applied. Therefore, we use return on assets (ROAi,t,) – calculated as the ratio of EBITDA6 of the current firm year to total assets of the previous year (Core et al., 1999). Relative to return on equity, a return on assets ratio has the advantage of not being influenced by a firm’s financing policy.7 We employ a broad performance indicator (EBITDA) in the numerator of the ratio so that we can examine the base profitability of an SME’s activities without including the confounding effects of its capital structure, tax policies or depreciation policies. However, as labour costs have been subtracted from the numerator, ROA can be directly affected by possible differences in costs per worker across contract types. We therefore also use a value added ratio (VAi,t), which is not sensitive to this problem, as a measure of performance. This variable is calculated by subtracting the costs of materials and outside services from revenue to obtain the so-called value added of the firm; next value added is divided by total assets of the previous year (Arcelus et al., 2014).
+14
+Age, size, leverage and risk are used as control variables to control for other firm characteristics that may influence firm performance. Agei,t is calculated by taking the log of the number of years that firm i has been in operation as of year t. This variable is included as firm performance and is likely to vary by the age of the firm: indeed, older firms may have fewer investment opportunities, which may lead to lower profitability (Buysschaert et al., 2008). Sizei,t is computed as the log of total assets of firm i in year t. As larger firms may gain advantages of scale and scope, size can be expected to have a positive effect on performance. However, the performance-size relationship could also be negative because of diseconomies of scale (Goddard et al., 2005). Leveragei,t is constructed as the ratio of long-term and short-term liabilities over total assets and accounts for the financing policy of firm i in year t. The ex-ante expected effect of debt on profitability is not straightforward. For instance, Myers and Majluf (1984) argue that firms with favourable growth prospects will exhaust their internal funds before soliciting outside funding; therefore, leverage is expected to be negatively related to firm performance. However, Jensen (1986) states that debt may discipline managerial behaviour and suggests that the correlation between profits and leverage is positive. Riski,t measures the volatility of the returns and is computed as the standard deviation of return on assets over the previous three firm years (Anderson and Reeb, 2003; Core et al., 1999). The correlation matrix of all main variables can be found in Appendix 1. To avoid simultaneity problems, the explanatory variables all are lagged by one firm year.
+Sample and descriptive statistics
+Sample selection
+The sample contains Belgian SMEs, for which information for the period between 2000 and 2009 was collected from unconsolidated financial statements obtained from the
+15
+BelFirst database (Bureau Van Dijk EP).
+8 An important consideration from this article’s viewpoint is that all Belgian firms are obliged not only to report standard financial information but also to disclose detailed information on the composition of their workforce in the so-called social balance sheet, including employee characteristics (e.g., gender and level of education) and the type of labour contract. Data from this social balance sheet allow us to construct the firm-specific EPL measures that are defined in the previous section.
+We first exclude micro-enterprises, i.e., firms employing fewer than 10 persons, from the sample.9 Second, financial, insurance and real-estate companies as well as public services companies are excluded. Third, firms with fewer than four consecutive years of data are eliminated since at least three consecutive years are needed to construct some of the variables. Including only firms that report four consecutive years of data has the additional advantage that the influence of unsuccessful start-ups is minimized. Fourth, only stand-alone firms that are not controlled by another firm are considered to avoid potential noise due to group-wide policies and to ensure that the sample comprises entrepreneurial firms.
+Following common practice, we omit firms with a leverage level higher than 100%, as such firms do not report the number of employees in full-time equivalents. Firm-years for which the absolute value of asset growth exceeds 100% are eliminated to reduce the effect of mergers, reorganizations and other major corporate events (Almeida and Campello, 2007). The remaining control variables are winsorized at the 1% level. The resulting sample comprises 13,112 Belgian small and medium-sized firms with 69,653 firm-year observations.10
+16
+Descriptive statistics
+Table 2 presents the descriptive statistics of the key variables. The firms employ 65.96% blue-collar workers (BC) on average. The standard deviation of 32.66% for BC indicates that the dispersion amongst firms is large. FT, on the other hand, shows that temporary workers on average represent only 4.07% of the total workforce. The median FT-value indicates that at least half of the firms in the dataset do not employ any temporary workers. Nevertheless, the standard deviation of 9.93% for FT shows that this variable too has a certain degree of variability. The range and standard deviation of FLEXbc shows that firms in the same industry may indeed vary considerably in their relative use of blue- and white-collar contracts. In terms of profitability, our sample firms are doing well: the mean value of ROA is 17.45%, while the value added ratio (VA) amounts to 76.61% on average. Further, the median firm in our sample has EUR 1.70 million in total assets, employs 19 full-time equivalent workers and is mature with an age of 19 years.
+[Insert Table 2 Here]
+Results
+Univariate tests
+The univariate tests of Table 3 give a first indication of the relationship between employment flexibility and performance. These tests compare the performance of firms that are located in the upper and lower quartile in terms of labour flexibility. The left-hand side concerns the medians. Consistent with the hypotheses, the Mann-Whitney equality test statistics show that more flexible firms have a higher performance, and the difference in performance is highly significant in all cases but is much larger for the flexibility measures based on blue- versus white-collar contracts than for the measures
+17
+based on temporary versus permanent contracts. For instance, the difference in the median ROA between the quartile of firms that uses the most blue-collar contracts relative to their industry peers (as measured by FLEXbc) and the quartile that uses the lowest number of blue-collar contracts relative to their industry peers is 2.51%, while the difference between the top and bottom quartiles based on the median industry-relative use of temporary contracts (as measured by FLEXft) is only 0.53%. The right-hand side of Table 3 contains the analyses for the means, for which the results are highly similar to those found for the medians.
+[Insert Table 3 Here]
+Regressions
+Panel A of Table 4 contains the least squares regressions for the flexibility measures BC and FLEXbc on ROA and VA.11 In line with Hypothesis 1a, the results in models (1) and (2) indicate that the percentage of blue-collar workers (BC) has a highly significant positive impact on performance. Firms that employ a higher percentage of employees with blue-collar contracts perform better in terms of not only ROA but also VA. The results of the effect of the industry-corrected flexibility measure FLEXbc on performance in models (3) and (4) confirm these findings and support Hypothesis 1b.12
+[Insert Table 4 Here]
+Panel B of Table 4 contains the results for the flexibility measures FT and FLEXft concerning temporary workers. The findings show that FT and FLEXft positively affect performance, albeit nonsignificantly. Hiring more temporary workers or more temporary workers than industry peers does not have a significant effect on ROA or VA. Hence, contrary to the univariate results in Table 3, the findings in Table 4 do not support
+18
+Hypotheses 2a and 2b. In other words, once other factors that may affect performance are controlled for, the effect of temporary workers is too small to be significant, which may be due to the relatively limited use of temporary workers by our sample firms. Throughout Table 4, Size, Age and Leverage are negatively related to performance. Thus, larger and older firms have lower performance. Taking on more debt also leads to lower performance. Furthermore, firms that are riskier have higher performance, in terms of both ROA and VA.
+Robustness checks
+The estimation method used for the results in Table 4 circumvents simultaneity issues by lagging the flexibility variables as well as the control variables by one period. To alleviate further concerns of endogeneity, a 2SLS instrumental variable approach is applied as a robustness check. Two variables are used as instrumental variables for the flexibility variables. The first variable contains the percentage of female employees per firm, and the second variable is the percentage of workers who work on a part-time basis in a firm. Table 5 presents the results for the instrumental variable approach. To limit table sizes in the robustness section, we report only the results for the BC and FLEXbc measures.13 The main results confirm our findings and show that firms that hire more blue-collar workers perform significantly better in terms of ROA (model 1), although the effect is not significant for the specification with FLEXbc (model 3). As before, hiring more fixed-term employees has a positive but nonsignificant effect on ROA (not reported). As the Durbin-Wu-Hausman tests do not reveal the presence of an endogeneity problem in the ROA models14, the OLS estimates in Table 4 should be consistent and more efficient than the IV-estimates. The impact of BC and FLEXbc on VA remains positive and significant in models 2 and 4 of Table 5, and even the effect of FLEXft on
+19
+VA is significantly positive when we use the instrumental variable approach (consistent with Hypothesis 2b; results for FT and FLEXft not reported). However, the results for the VA IV regressions should be interpreted with caution, as the null hypothesis of the tests for over-identifying restrictions is rejected.
+15 Ideally, we would refer to the literature for other examples of suitable instruments, but unfortunately, there is very little available evidence.
+[Insert Table 5 Here]
+To obtain yet another view on the problem, we also run a different type of robustness check to specifically focus on cross-sectional variation, as in Faulkender and Smith (2014): we estimate in-between regressions (using the average of all the variables in the model over time). The results in Table 6 confirm the previous findings: firms that employ more blue-collar workers perform better, ceteris paribus. In most models, firms do not have measurably higher performance when they employ more temporary workers, although ???????????????????????????????????????????? has a borderline significant positive effect on ???????????????? (not reported). It should also be noted that from an economic viewpoint, the positive relationship between performance and both BC and FLEXbc that we find in the fixed-effect models, the IV regressions and the between regressions is unlikely to result from reverse causality. Indeed, there does not seem to be a reason for firms to give their employees contracts with poor protection owing to their high performance. If reverse causality were very important, one would expect to find the opposite relationship: firms that are doing well may be more likely to reward their employees with better protected contracts.
+[Insert Table 6 Here]
+20
+In addition to the instrumental variable and in-between approaches in Tables 5 and 6, a number of other robustness checks were performed. First, to account for a specific element of Belgian labour legislation, a split sample analysis based on the number of employees has been performed. As soon as the number of employees exceeds 50, Belgian firms are legally obliged to install a Committee for Prevention and Protection at Work (CPPW).16The CPPW comprises the employer and at least two employee representatives, and blue-collar and white-collar workers are proportionally represented. The committee’s main task is to improve the well-being of the employees in their work situation by advising the firm on issues such as employee complaints and safety problems. In addition, an employer cannot make adjustments to the firm's employment policy without consulting his or her employees and without justifying the decisions. Accordingly, the presence of a CPPW may reduce flexibility, as it offers employees a platform to collect firm information, to bargain with the employer and to put pressure on the firm. For the subsample of firms without a CPPW, the findings are the same as before. The coefficients of BC and FLEXbc in Table 7 are significantly positive, while FT and FLEXft (not reported) do not affect performance. Nevertheless, for the CPPW subsample, the results are less convincing, as only VA is borderline significantly positively affected by FLEXbc. These findings suggest that our earlier results are mainly driven by the group of firms with fewer than 50 employees, which are not obliged to have a CPPW in the firm. The decrease in flexibility due to the presence of a CPPW in larger firms may contribute to this lesser effect. However, as argued before, the flexibility offered by blue-collar worker contracts may be more important for smaller firms because they are less diversified and hence have less opportunity to shift labour to other uses within the firm.
+[Insert Table 7 Here]
+21
+Second, the choice between blue-collar and white-collar workers might also depend on the role of technology and innovation within the firm. Unfortunately, we cannot obtain data on fixed-asset investments linked to technology or innovation for the SMEs in our sample or detailed information on R&D spending. To get a clearer idea of whether the technological environment in which a firm is active plays a role, we define a dummy variable that takes a value of 1 if the firm belongs to an industry in a knowledge-intensive activity (kia) according to Eurostat’s classification and use interaction terms with this dummy variable to split the effect of our flexibility variables between knowledge-intensive and non-knowledge intensive industries. The results for ROA in Table 8 are extremely close for both groups and are significantly positive, as before. Interestingly, there are some differences for the value added ratio VA: the BC-based variables are significantly positively related to performance in both activity types, but the effect is substantially larger in knowledge-intensive industries. With respect to the temporary contract variables (not reported), it turns out that having more temporary workers is significantly positively related to performance measured as VA, but only in knowledge-intensive activities.
+[Insert Table 8 Here]
+Third, as in Campello (2006),we recompute the flexibility measures FLEXbc and FLEXft by using industry means instead of industry medians and obtain very similar results. Furthermore, the results are also robust to the exclusion of the years 2008 and 2009, which could be affected by the recession following the subprime mortgage crisis, from the sample period. Next, the inclusion of a wage variable (defined as the ratio between total wages and the number of employees in FTE) to ensure that the results are not driven by wage costs along with an asset growth variable does not alter the findings. The findings
+22
+also do not substantially change when performance is regressed on both types of flexibility variables simultaneously, i.e., the measures based on the difference between blue- and white-collar workers and the measures based on the distinction between fixed-term and permanent workers. Finally, we follow a matching strategy that starts by defining a group of observations in which firms use a relatively large amount of low-EPL contracts (top 25% in terms of BC or FT), and we then select a one-on-one matching sample from the remainder of the sample based on propensity score matching by using (a) industry and size and (b) size, age, leverage and risk. The positive and significant sign for BC confirms the results of the other analyses. Interestingly, after we implement the matching procedure, the effect of the temporary contract use (FT) becomes significant in all models, which is consistent with the second hypothesis.
+17
+Discussion, limitations and avenues for future research
+There is a lack of consensus regarding the effect of EPL on financial performance in the current literature. On the one hand, firms that are subject to higher EPL will have higher hiring and firing costs (Autor et al., 2007), which makes them less responsive to changing circumstances and shifts in demand (Cuñat and Melitz, 2012). Furthermore, more restrictive employment protection rules may give employees the incentive to shirk more (Cingano et al., 2010), while employers may be simultaneously less inclined to fire their employees to avoid EPL costs (Bird and Knopf, 2009). Accordingly, we would expect a positive effect of flexible employment protection rules on financial performance. On the other hand, a stringent EPL environment may encourage employees to invest in firm-specific and specialized skills (Gust and Marquez, 2004), leading to more innovation
+23
+(Acharya et al., 2014). Thus, more protective employment protection rules may also lead to better performing firms.
+To the best of our knowledge, ours is the first article to investigate the impact of labour flexibility on the performance of SMEs on the basis of firm-specific measures of labour flexibility. Such a study is possible because of the unique data availability within our Belgian setting. Specifically, we are able to investigate two different types of flexibility, i.e., temporary versus permanent labour contracts and blue-collar versus white-collar labour contracts. Both temporary employees and blue-collar employees are subject to relatively less restrictive labour protection rules.
+Although our univariate results indicate that firms that employ more temporary workers perform better, our multivariate results are generally unable to confirm this effect, likely because only a small portion of employees are employed under this type of contract. Employing more employees with a blue-collar labour contract, however, does have a positive impact on profitability and value added in both the univariate and multivariate tests. Further, ceteris paribus, firms that hire relatively more blue-collar workers than their industry peers are more profitable.
+The results are robust to various changes in the estimation approach, model specification and variable definitions. In addition, the findings appear to be mainly driven by the smaller firms in the sample, as the positive effect on performance of hiring more blue-collar workers is nonsignificant for mid-sized firms that are subject to legislation requiring firms to install a committee in which employees are represented and that are therefore likely to lose some labour flexibility. However, it should be noted that the percentage of mid-sized firms in the sample is quite low (9.40%), implying that the results
+24
+of a split-sample analysis should be interpreted with caution. Another limitation of our study is that our results may not be generalizable to other types of firms because of our focus on independent SMEs. In larger firms, or in SMEs that are part of business groups, the link between EPL and performance may be more complex, as there may be group-wide employment strategies or exposure to different EPL systems owing to activities in multiple countries. A final limitation is that we rely on archival data, which allows us to construct a very large testing sample; however, these data do not contain any explicit information about managerial strategy and decision making with regard to EPL.
+Overall, this article shows that EPL has a significant impact on SME performance, which has clear policy implications given that our results indicate that changes in the legal framework may have consequences for a large number of firms. Recently, a legal change eliminated some of the differences between contract types in response to a judgment of the Belgian Constitutional Court, which declared the difference in rules between white- and blue-collar workers with respect to the period of notice and to work disability to be unconstitutional and in violation of the principle of equality. In December 2013, the Belgian government adopted a more harmonizing regulation, for instance, by stipulating that a blue-collar worker’s period of notice equals a white-collar’s period of notice for contracts established after 1 January 2014. This reform had no impact during this article's sample period, and we expect that the main results will continue to hold for several years, as existing labour contracts remain largely unaffected and as there is an extensive transition period during which the old regulations will still have an effect. However, the reform does open up future research possibilities since it provides a natural experiment setting for the impact of EPL on firm behaviour. For instance, it could be hypothesized that firms may shift to hiring more temporary workers to safeguard their flexibility and
+25
+performance as the effects of the reform gradually become more important over time.
+Notes
+1 Articles 2 and 3 of the Law on the Employment Contracts of July 3rd, 1987.
+2 The flexibility variables, which are the variables of interest, are very stable over time. Therefore, a fixed-firm effects approach cannot be used since such an approach would negate the effect of the flexibility variables.
+3 Industries are defined at the 2-digit level and based on NACE-BEL industry classification codes. In descending order of importance, our sample comprises firms from the following industries: retail & wholesale (32.6%), manufacturing (31.7%), services (13.9%), construction (10.1%), transportation (9.4%) and food production (2.3%). The industry medians used to compute the industry-adjusted variables are based on the population of all SMEs (excluding micro-enterprises) in the BelFirst database. As a robustness check, industries are also defined at a broader 1-digit level as well as on a 3-digit level. The results are available upon request and remain qualitatively the same.
+4 The findings do not qualitatively change when these firms are included in the analyses.
+5 Using only fixed-term workers to construct FTit or FLEXftit does not have a qualitative impact on the findings.
+6 Earnings before Interest, Taxes, Depreciation and Amortization.
+7 Return on equity (ROE) may be less suitable as a measure for performance in an SME setting, since (a) profits can be strongly influenced by the financing policy of the firm
+26
+and (b) the book value of shareholder’s equity can be quite volatile in smaller firms, leading to extreme values for ROE.
+8 We follow the European Commission’s definition of small and medium-sized enterprises, which states that “[t]he category of micro, small and medium-sized enterprises (SMEs) is made up of enterprises which employ fewer than 250 persons and which have an annual turnover not exceeding EUR 50 million, and/or an annual balance sheet total not exceeding EUR 43 million.” (Art 2.1 recommendation 2003/361/EC)
+9 Micro-firms employing fewer than 10 employees are not included as their organizations tend to be less well structured (Molly et al., 2010) and as the labour-related ratios for these firms may suffer from small denominator problems.
+10 As a result of all the steps reported on p.19, our sample covers approximately 58.9% of all Belgian SMEs in the size class we consider that report financial statements during our sample period.
+11 Note that the number of observations is lower in the regression tables than in the summary statistics table (Table 2) because (a) because the summary statistics include every available value of each variable while only those observations for which all variables are available are included in the regressions and (b) because the regressions use lagged variables.
+12 To give an idea of the economic significance of the results, if all variables in the model were at their mean value and if the value of FLEXbc were to increase from its mean to its mean plus one standard deviation, ROA would increase from 17.38% to 18.09% – an absolute increase of 0.51% or a relative increase of 2.94%.
+13 The results for FT and FLEXft are available upon request.
+27
+14 The Durbin-Wu-Hausman test scores (?²) for the ROA models in Table 5 are 0.195 (p = 0.659) for model 1 and 1.303 (p = 0.254) for model 3. For the VA models, the test scores are 27.503 (model 2; p = 0.000) and 24.613 (model 4; p = 0.000).
+15 For the ROA models in Table 5, the Hansen J statistics are 0.662 (model 1; p = 0.416) and 0.096 (model 3: p = 0.757), and the first-stage F-statistics are very high (979.7 for model 1 and 775.2 for model 3), indicating that the instruments are valid and strong. However, for the VA models, the over-identification tests are rejected (Hansen J of 11.086 for model 2 and 15.668 for model 4), which means that the strength of the instruments cannot be assessed.
+16 Comité voor Preventie en Bescherming op het Werk/Comité pour la Prévention et la Protection au Travail.
+17 All results from the additional robustness checks are available upon request.
+28
+References
+Abraham SE (2004) An empirical assessment of employment-at-will: A tale of two states. Managerial Law 46(6): 3-19.
+Acharya VV, Baghai RP and Subramanian KV (2014) Wrongful discharge laws and innovation. Review of Financial Studies 27(1): 301-346.
+Addison JT and Teixeira P (2003) The economics of employment protection. Journal of Labor research 24(1): 85-128.
+Almeida H and Campello M (2007) Financial constraints, asset tangibility, and corporate investment. Review of Financial Studies 20(5): 1429-1460.
+Almeida R and Carneiro P (2009) Enforcement of labor regulation and firm size. Journal of Comparative Economics 37(1): 28-46.
+Anderson RC and Reeb DM (2003) Founding-family ownership and firm performance: evidence from the S&P 500. The Journal of Finance 58(3): 1301-1327.
+Arcelus F, Melgarejo Z and Simón K (2014) Managerial performance differences between labor-owned and participatory capitalist firms. Journal of Small Business Management 52(4): 808-828.
+Atanassov J and Kim E (2009) Labor and corporate governance: International evidence from restructuring decisions. The Journal of Finance 64(1): 341-374.
+29
+Atkinson C, Mallett O and Wapshott R (2016) ‘You try to be a fair employer’: Regulation and employment relationships in medium-sized firms. International Small Business Journal 34(1): 16-33.
+Autor DH, Donohue JJ and Schwab SJ (2006) The costs of wrongful-discharge laws. The Review of Economics and Statistics 88(2): 211-231.
+Autor DH, Kerr WR and Kugler AD (2007) Does employment protection reduce productivity? Evidence from US states. The Economic Journal 117(521): 189-217.
+Bassanini A, Nunziata L and Venn D (2009) Job protection legislation and productivity growth in OECD countries. Economic Policy 24(58): 349-402.
+Bauernschuster S (2013) Dismissal protection and small firms’ hirings: Evidence from a policy reform. Small Business Economics 40(2): 293-307.
+Belot M, Boone J and Van Ours J (2007) Welfare-improving employment protection. Economica 74(295): 381-396.
+Bentolila S and Bertola G (1990) Firing costs and labour demand: How bad is eurosclerosis? The Review of Economic Studies 57(3): 381-402.
+Bertola G (1994) Flexibility, investment, and growth. Journal of Monetary Economics 34(2): 215-238.
+Besley T and Burgess R (2004) Can labor regulation hinder economic performance? Evidence from India. The Quarterly Journal of Economics 119(1): 91-134.
+30
+Bird RC and Knopf JD (2009) Do wrongful-discharge laws impair firm performance? Journal of Law and Economics 52(2): 197-222.
+Blanpain R (2010) Labour law in Belgium: Kluwer Law International.
+Blundell R, Griffith R and Van Reenen J (1999) Market share, market value and innovation in a panel of British manufacturing firms. The Review of Economic Studies 66(3): 529-554.
+Bonini S and Alkan S (2012) The political and legal determinants of venture capital investments around the world. Small Business Economics 39(4): 997-1016.
+Bozkaya A and Kerr WR (2014) Labor regulations and European venture capital. Journal of Economics & Management Strategy 23(4): 776-810.
+Buysschaert A, Deloof M, Jegers M, et al. (2008) Is group affiliation profitable in developed countries? Belgian evidence. Corporate Governance: An International Review 16(6): 504-518.
+Campello M (2006) Debt financing: Does it boost or hurt firm performance in product markets? Journal of Financial Economics 82(1): 135-172.
+Cingano F, Leonardi M, Messina J, et al. (2010) The effects of employment protection legislation and financial market imperfections on investment: Evidence from a firm-level panel of EU countries. Economic Policy 25(61): 117-163.
+31
+Core JE, Holthausen RW and Larcker DF (1999) Corporate governance, chief executive officer compensation, and firm performance. Journal of Financial Economics 51(3): 371-406.
+Cornell B and Shapiro AC (1987) Corporate stakeholders and corporate finance. Financial Management: 5-14.
+Coudouel A and Paci P (2006) Selected labor market reforms. In Coudouel A and Paternostro S (eds) Analyzing the Distributional Impact of Reforms. Washington, D.C.: The World Bank, pp. 111-211.
+Cuñat A and Melitz MJ (2012) Volatility, labor market flexibility, and the pattern of comparative advantage. Journal of the European Economic Association 10(2): 225-254.
+Dewit G, Görg H and Montagna C (2009) Should I stay or should I go? Foreign direct investment, employment protection and domestic anchorage. Review of World Economics 145(1): 93-110.
+Engels, C (2002) Does the color of your collar really make a difference? The unconstitutional discrimination between white and blue-collar workers. In Blanpain R (ed) Labour Law, Human Rights and Social Justice. The Hague: Kluwer Law International, pp. 283-295.
+Faulkender MW and Smith JM (2014) Taxes and leverage at multinational corporations, working paper. College Park: University of Maryland.
+32
+Goddard J, Tavakoli M and Wilson JO (2005) Determinants of profitability in European manufacturing and services: evidence from a dynamic panel model. Applied Financial Economics 15(18): 1269-1282.
+Goux D, Maurin E and Pauchet M (2001) Fixed-term contracts and the dynamics of labour demand. European Economic Review 45(3): 533-552.
+Gust C and Marquez J (2004) International comparisons of productivity growth: The role of information technology and regulatory practices. Labour Economics 11(1): 33-58.
+Harrison JS and Wicks AC (2013) Stakeholder theory, value, and firm performance. Business Ethics Quarterly, 23(1): 97-124.
+Hopenhayn H and Rogerson, R (1993) Job turnover and policy evaluation: A general equilibrium analysis. Journal of Political Economy, 101(5): 915-938.
+Ichino A and Riphahn RT (2005) The effect of employment protection on worker effort: Absenteeism during and after probation. Journal of the European Economic Association 3(1): 120-143.
+Javorcik BS and Spatareanu M (2005) Do foreign investors care about labor market regulations? Review of World Economics 141(3): 375-403.
+Jensen MC (1986) Agency cost of free cash flow, corporate finance, and takeovers. Corporate Finance, and Takeovers. American Economic Review 76(2): 323-329.
+33
+Jensen MC (2001) Value maximization, stakeholder theory, and the corporate objective function. Journal of Applied Corporate Finance 14(3): 8-21.
+Kambourov G (2009) Labour market regulations and the sectoral reallocation of workers: the case of trade reforms. Review of Economic Studies 76(4): 1321-1358.
+Kleinknecht A, Oostendorp RM, Pradhan MP, et al. (2006) Flexible labour, firm performance and the Dutch job creation miracle. International Review of Applied Economics 20(2): 171-187.
+La Porta R, Lopez-de-Silanes F, Shleifer A, et al. (1998) Law and finance. Journal of Political Economy 106(6): 1113-1155.
+Lane J, Broadman HG and Singh I (1998) Labor flexibility, ownership and firm performance in China. Review of Industrial Organization 13(6): 621-635.
+Lazear EP (1990) Job security provisions and employment. The Quarterly Journal of Economics 105(3): 699-726.
+Lepak DP, Takeuchi R and Snell SA (2003) Employment flexibility and firm performance: Examining the interaction effects of employment mode, environmental dynamism, and technological intensity. Journal of Management 29(5): 681-703.
+Martins PS (2009) Dismissals for cause: The difference that just eight paragraphs can make. Journal of Labor Economics 27(2): 257-279.
+34
+Michie J and Sheehan-Quinn M (2001) Labour market flexibility, human resource management and corporate performance. British Journal of Management 12(4): 287-306.
+Molly V, Laveren E and Deloof M (2010) Family business succession and its impact on financial structure and performance. Family Business Review 23(2): 131-147.
+Myers SC and Majluf NS (1984) Corporate financing and investment decisions when firms have information that investors do not have. Journal of Financial Economics 13(2): 187-221.
+Nickell S and Layard R (1999) Labor market institutions and economic performance. Handbook of Labor Economics 3: 3029-3084.
+Petersen MA (2009) Estimating standard errors in finance panel data sets: Comparing approaches. Review of Financial Studies 22(1): 435-480.
+Pissarides CA (2001) Employment protection. Labour Economics 8(2): 131-159.
+Radulescu R and Robson M (2013) Does labour market flexibility matter for investment? A study of manufacturing in the OECD. Applied Economics 45(5): 581-592.
+Roberts PW (1999) Product innovation, product-market competition and persistent profitability in the US pharmaceutical industry. Strategic Management Journal 20(7): 655-670.
+35
+Russo A and Perrini F (2010) Investigating stakeholder theory and social capital: CSR in large firms and SMEs. Journal of Business Ethics 91(2): 207-221.
+Simintzi E, Vig V and Volpin P (2015) Labor protection and leverage. Review of Financial Studies 28(2): 561-591.
+Valverde M, Tregaskis O and Brewster C (2000) Labor flexibility and firm performance. International Advances in Economic Research 6(4): 649-661.
+36
+Table 1. Variable definitions
+Variable
+Definition
+Proxy for
+BCit
+Percentage of blue-collar workers in firm i in full-time equivalents in year t
+Flexibility
+FTit
+Percentage of temporary workers in firm i in full-time equivalents in year t
+Flexibility
+FLEXbcit
+Percentage of blue-collar workers in firm i in full-time equivalents – the median percentage of blue-collar workers in the industry of firm i in full-time equivalents in year t
+Flexibility
+FLEXftit
+Percentage of temporary workers in firm i in full-time equivalents – the median percentage of temporary workers in the industry of firm i in full-time equivalents in year t
+Flexibility
+ROAit
+(EBITDAi,t)/(total assetsi, t-1)
+Performance
+VAit
+(Revenue – costs of goods sold and of servicesi,t)/(total assetsi, t-1)
+Performance
+Leverageit
+(ST debt i,t + LT debti,t)/total assetsi,t
+Leverage
+Riskit
+s(ROAi,t-2, ROAi,t-1, ROAi,t)
+Risk
+Ageit
+Ln(year of incorporationi – financial year t)
+Age
+Sizeit
+Ln(total assetsi,t)
+Firm Size
+37
+Table 2. Descriptive statistics
+Variable
+Firm-Year Obs.
+Mean
+Median
+Std. Dev.
+Min
+Max
+BC
+69550
+0.6596
+0.7857
+0.3266
+0.0000
+1.0000
+FT
+69515
+0.0407
+0.0000
+0.0993
+0.0000
+1.0000
+FLEXbc
+62697
+-0.0030
+0.0000
+0.2555
+-0.9451
+0.9877
+FLEXft
+62672
+0.0399
+0.0000
+0.0980
+-0.0317
+1.0000
+ROA
+69641
+0.1745
+0.1533
+0.1252
+-0.1092
+0.6180
+VA
+68082
+0.7661
+0.6499
+0.4878
+0.0068
+2.8133
+Leverage
+69653
+0.6698
+0.6998
+0.1907
+0.1463
+0.9790
+Risk
+43577
+0.0454
+0.0346
+0.0385
+0.0000
+0.3428
+Age
+69327
+22
+19
+14
+1
+109
+Total Assets
+69653
+3537
+1703
+8130
+210
+133108
+Employees
+69653
+28
+19
+26
+10
+250
+Notes: Total assets in thousands of euros; employees in full-time equivalents; other variables as defined in Table 1.
+38
+Table 3. Univariate tests
+Medians
+|MWW-test statistic|
+Means
+|t-value|
+Lowest 25% values of
+Highest 25% values of
+Lowest 25% values of
+Highest 25% values of
+BC
+BC
+ROA
+0.1335
+0.1906
+(43.063)***
+0.1565
+0.2097
+(38.434)***
+VA
+0.5222
+0.9000
+(78.953)***
+0.6247
+1.0267
+(73.744)***
+FT
+FT
+ROA
+0.1521
+0.1586
+(5.898)***
+0.1737
+0.1786
+(4.413)***
+VA
+0.6385
+0.6755
+(11.559)***
+0.7498
+0.8045
+(12.156)***
+FLEXbc
+FLEXbc
+ROA
+0.1343
+0.1594
+(20.325)***
+0.1546
+0.1786
+(17.662)***
+VA
+0.5388
+0.6383
+(29.211)***
+0.6189
+0.7994
+(33.834)***
+FLEXft
+FLEXft
+ROA
+0.1524
+0.1577
+(4.413)***
+0.1739
+0.1776
+(3.227)***
+VA
+0.6395
+0.6756
+(10.985)***
+0.7491
+0.8023
+(11.335)***
+Notes: This table provides univariate tests. The table contains the medians, the Wilcoxon Mann-Whitney tests for the equality of medians (Wilcoxon T-statistic in parentheses), and the means and t-test scores for the equality of means (t-statistic in parentheses) of ROA and VA for firms with the 25% lowest and 25% highest values of BC, FT, FLEXbc and FLEXft. The variables are as defined in Table 1. *** denotes significance at the 1% level.
+39
+Table 4. The impact of flexibility on performance
+Panel A: The impact of BC and FLEXbc on performance
+(1)
+(2)
+(3)
+(4)
+Variable
+ROA
+VA
+ROA
+VA
+BC
+0.021***
+0.084***
+–
+–
+[0.005]
+[0.016]
+FLEXbc
+–
+–
+0.020***
+0.077***
+[0.005]
+[0.017]
+Size
+–0.009***
+–0.280***
+–0.010***
+–0.285***
+[0.001]
+[0.005]
+[0.001]
+[0.005]
+Age
+–0.030***
+–0.023***
+–0.031***
+–0.025***
+[0.002]
+[0.006]
+[0.002]
+[0.006]
+Leverage
+–0.086***
+–0.040**
+–0.087***
+–0.035*
+[0.006]
+[0.018]
+[0.006]
+[0.019]
+Risk
+0.540***
+1.339***
+0.545***
+1.337***
+[0.030]
+[0.085]
+[0.031]
+[0.090]
+Constant
+0.339***
+2.841***
+0.369***
+3.075***
+[0.017]
+[0.053]
+[0.014]
+[0.053]
+Industry FE
+Yes
+Yes
+Yes
+Yes
+Year FE
+Yes
+Yes
+Yes
+Yes
+Firm-Year Obs.
+31,622
+30,889
+28,504
+27,837
+Adj. R²
+0.146
+0.513
+0.150
+0.514
+Notes: This table contains the results of the least squares regressions of the effect of employment flexibility, measured as BC and FLEXbc, on performance during the period 2000-2009. All variables are as defined in Table 1. Clustered standard errors are in parentheses. *** denotes significance at the 1% level, ** denotes significance at the 5% level, and * denotes significance at the 10% level.
+40
+Table 4 continued. The impact of flexibility on performance
+Panel B: The impact of FT and FLEXft on performance
+(1)
+(2)
+(3)
+(4)
+Variable
+ROA
+VA
+ROA
+VA
+FT
+0.009
+0.020
+–
+–
+[0.0101
+[0.043]
+FLEXft
+–
+–
+0.006
+0.035
+[0.010]
+[0.047]
+Size
+–0.010***
+–0.285***
+–0.011***
+–0.288***
+[0.001]
+[0.005]
+[0.001]
+[0.005]
+Age
+–0.030***
+–0.024***
+–0.031***
+–0.025***
+[0.002]
+[0.006]
+[0.002]
+[0.006]
+Leverage
+–0.087***
+–0.045**
+–0.088***
+–0.040**
+[0.005]
+[0.018]
+[0.006]
+[0.019]
+Risk
+0.538***
+1.333***
+0.543***
+1.332***
+[0.030]
+[0.085]
+[0.032]
+[0.090]
+Constant
+0.366***
+2.950***
+0.377***
+3.101***
+[0.015]
+[0.052]
+[0.014]
+[0.054]
+Industry FE
+Yes
+Yes
+Yes
+Yes
+Year FE
+Yes
+Yes
+Yes
+Yes
+Firm-year Obs.
+31,594
+30,863
+28,481
+27,816
+Adj. R²
+0.144
+0.511
+0.149
+0.513
+Note: This table contains the results of the least squares regressions of the effect of employment flexibility, measured as FT and FLEXft, on performance during the period 2000-2009. All variables are as defined in Table 1. Clustered standard errors are in parentheses. *** denotes significance at the 1% level, and ** denotes significance at the 5% level.
+41
+Table 5. The impact of flexibility on performance - Instrumental variables approach
+(1)
+(2)
+(3)
+(4)
+Variable
+ROA
+VA
+ROA
+VA
+BC
+0.020**
+0.236***
+–
+–
+[0.009]
+[0.028]
+FLEXbc
+–
+–
+0.010
+0.195***
+[0.009]
+[0.027]
+Size
+–0.009***
+–0.271***
+–0.010***
+–0.277***
+[0.001]
+[0.003]
+[0.001]
+[0.003]
+Age
+–0.030***
+–0.021***
+–0.031***
+–0.023***
+[0.001]
+[0.003]
+[0.001]
+[0.004]
+Leverage
+–0.086***
+–0.035***
+–0.087***
+–0.030***
+[0.004]
+[0.011]
+[0.004]
+[0.011]
+Risk
+0.542***
+1.343***
+0.546***
+1.342***
+[0.024]
+[0.063]
+[0.025]
+[0.066]
+Constant
+0.363***
+2.525***
+0.375***
+3.123***
+[0.015]
+[0.047]
+[0.011]
+[0.038]
+Industry FE
+Yes
+Yes
+Yes
+Yes
+Year FE
+Yes
+Yes
+Yes
+Yes
+Firm-Year Obs.
+31,521
+30,796
+28,424
+27,762
+Adj. R²
+0.147
+0.507
+0.151
+0.511
+Notes: This table contains the results of the instrumental variables regressions of the effect of employment flexibility, using the percentage of female workers and of part-time workers in the firm as instruments for BC and FLEXbc, on performance during the period 2000-2009. All variables are as defined in Table 1. Robust standard errors are in parentheses. *** denotes significance at the 1% level, and ** denotes significance at the 5% level.
+42
+Table 6. The impact of flexibility on performance – In-between approach
+(1)
+(2)
+(3)
+(4)
+Variable
+ROA????????????
+VA????????
+ROA????????????
+VA????????
+BC
+0.036***
+0.0949***
+–
+–
+[0.005]
+[0.019]
+FLEXbc
+–
+–
+0.039***
+0.102***
+[0.006]
+[0.020]
+Size
+–0.007***
+–0.225***
+–0.007***
+–0.225***
+[0.001]
+[0.005]
+[0.001]
+[0.005]
+Age
+–0.031***
+–0.0411***
+–0.032***
+–0.043***
+[0.002]
+[0.006]
+[0.002]
+[0.006]
+Leverage
+–0.098***
+–0.0265
+–0.103***
+–0.029
+[0.008]
+[0.022]
+[0.008]
+[0.023]
+Risk
+0.956***
+2.791***
+0.955***
+2.750***
+[0.054]
+[0.159]
+[0.056]
+[0.165]
+Constant
+0.324***
+2.239***
+0.370***
+2.419***
+[0.018]
+[0.063]
+[0.021]
+[0.088]
+Industry FE
+Yes
+Yes
+Yes
+Yes
+Firm-Year Obs.
+8,960
+8,777
+8,359
+8,190
+Adj. R²
+0.223
+0.474
+0.227
+0.475
+Notes: This table contains the results of least squares regressions of the effect of employment flexibility on the firm average performance, using the firm averages of BC, FLEXbc, FT, FLEXft, size, age, leverage and risk as independent variables. These variables are as defined in Table 1. Robust standard errors are in parentheses. *** denotes significance at the 1% level, and ** denotes significance at the 5% level.
+43
+Table 7. The impact of flexibility on performance – firms with and without CPPW
+Panel A: Firms without CPPW obligations
+(1)
+(2)
+(3)
+(4)
+Variable
+ROA
+VA
+ROA
+VA
+BC
+0.023***
+0.041***
+–
+–
+[0.005]
+[0.015]
+FLEXbc
+–
+–
+0.023***
+0.036**
+[0.005]
+[0.016]
+Size
+–0.010***
+–0.327***
+–0.011***
+–0.330***
+[0.001]
+[0.005]
+[0.002]
+[0.006]
+Age
+–0.031***
+–0.027***
+–0.031***
+–0.028***
+[0.002]
+[0.006]
+[0.002]
+[0.006]
+Leverage
+–0.087***
+–0.043**
+–0.087***
+–0.040**
+[0.006]
+[0.017]
+[0.006]
+[0.018]
+Risk
+0.532***
+1.263***
+0.537***
+1.266***
+[0.031]
+[0.084]
+[0.033]
+[0.089]
+Constant
+0.344***
+3.176***
+0.374***
+3.343***
+[0.018]
+[0.056]
+[0.015]
+[0.057]
+Industry FE
+Yes
+Yes
+Yes
+Yes
+Year FE
+Yes
+Yes
+Yes
+Yes
+Firm-Year Obs.
+28,822
+28,204
+26,050
+25,483
+Adj. R²
+0.144
+0.562
+0.148
+0.562
+Notes: This table contains the results of the least squares regressions of the effect of employment flexibility on performance during the period 2000-2009 for firms that are not obliged to have a Committee for Prevention and Protection at Work (CPPW). All variables are as defined in Table 1. Clustered standard errors are in parentheses. *** denotes significance at the 1% level, ** denotes significance at the 5% level, and * denotes significance at the 10% level.
+44
+Table 7 continued. The impact of flexibility on performance – firms with and without CPPW
+Panel B: Firms with a CPPW
+(1)
+(2)
+(3)
+(4)
+Variable
+ROA
+VA
+ROA
+VA
+FT
+–0.023
+0.051
+–
+–
+[0.015]
+[0.051]
+FLEXft
+–
+–
+–0.021
+0.082*
+[0.014]
+[0.049]
+Size
+–0.020***
+–0.369***
+–0.019***
+–0.373***
+[0.004]
+[0.016]
+[0.004]
+[0.016]
+Age
+–0.025***
+–0.010
+–0.026***
+–0.011
+[0.005]
+[0.015]
+[0.005]
+[0.016]
+Leverage
+–0.087***
+–0.133**
+–0.087***
+–0.172***
+[0.017]
+[0.056]
+[0.019]
+[0.057]
+Risk
+0.549***
+0.754***
+0.544***
+0.734***
+[0.098]
+[0.238]
+[0.090]
+[0.227]
+Constant
+0.436***
+3.852***
+0.453***
+4.140***
+[0.080]
+[0.186]
+[0.045]
+[0.162]
+Industry FE
+Yes
+Yes
+Yes
+Yes
+Year FE
+Yes
+Yes
+Yes
+Yes
+Firm-year Obs.
+2,800
+2,685
+2,454
+2,354
+Adj. R²
+0.197
+0.672
+0.195
+0.681
+Notes: This table contains the results of the least squares regressions of the effect of employment flexibility on performance during the period 2000-2009 for firms that are obliged to have a Committee for Prevention and Protection at Work (CPPW). All variables are as defined in Table 1. Clustered standard errors are in parentheses. *** denotes significance at the 1% level, ** denotes significance at the 5% level, and * denotes significance at the 10% level.
+45
+Table 8. The impact of flexibility on performance – Knowledge intensity (1) (2) (3) (4) Variable ROA VA ROA VA kia×BC 0.030*** 0.209*** – – [0.001] [0.042] (1 – kia)×BC 0.023*** 0.080*** – – [0.005] [0.015] kia×FLEXbc – – 0.025** 0.302*** [0.012] [0.059] (1 – kia)×FLEXbc – – 0.025*** 0.076*** [0.005] [0.015] Size –0.009*** –0.278*** –0.009*** –0.282*** [0.001] [0.005] [0.001] [0.005] Age –0.030*** –0.024*** –0.031*** –0.025*** [0.002] [0.006] [0.002] [0.006] Leverage –0.085*** –0.041** –0.086*** –0.034* [0.006] [0.018] [0.006] [0.019] Risk 0.536*** 1.334*** 0.542*** 1.333*** [0.030] [0.086] [0.032] [0.091] Constant 0.336*** 2.827*** 0.365*** 3.051*** [0.016] [0.053] [0.014] [0.053] Industry FE Yes Yes Yes Yes Year FE Yes Yes Yes Yes Firm-Year Obs. 31,897 31,160 28,751 28,080 Adj. R² 0.1458 0.5122 0.1506 0.5149 Notes: This table contains the results of the least squares regressions of the effect of employment flexibility on performance during the period 2000-2009. The model includes interactions with a kia dummy that takes a value of 1 if a firm is active in a knowledge-intensive activity according to the Eurostat classification and 0 otherwise. The other variables are as defined in Table 1. Clustered standard errors are in parentheses. *** denotes significance at the 1% level, ** denotes significance at the 5% level and, * denotes significance at the 10% level.
+46
+Appendix 1. Correlation matrix
+ROA
+VA
+BC
+FLEXbc
+FT
+FLEXft
+Size
+Age
+Leverage
+Risk
+ROA
+1
+VA
+0.463***
+1
+BC
+0.118***
+0.242***
+1
+FLEXbc
+0.079***
+0.178***
+0.530***
+1
+FT
+0.032***
+0.073***
+–0.003
+0.024***
+1
+FLEXft
+0.030***
+0.076***
+–0.012***
+0.025***
+0.999***
+1
+Size
+–0.198***
+–0.631***
+–0.255***
+–0.211***
+–0.102***
+–0.103***
+1
+Age
+–0.169***
+–0.174***
+0.015***
+–0.088***
+–0.086***
+–0.086***
+0.180***
+1
+Leverage
+–0.059***
+0.014***
+–0.016***
+–0.011***
+0.049***
+0.049***
+–0.037***
+–0.265***
+1
+Risk
+0.231***
+0.264***
+0.061***
+0.034***
+0.040***
+0.040***
+–0.191***
+–0.126***
+–0.083***
+1
+Notes: This table contains the Pearson correlation coefficients of the main variables in our analysis. Variables are as defined in Table 1.
+*** denotes significance at the 1% level.
