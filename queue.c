@@ -1,5 +1,7 @@
 /*/*  EL2208 Praktikum Pemecahan Masalah dengan C 2019/2020
  *  Modul               : Tugas Besar (9)
+ *  Kelompok		: E-2
+ *  Hari dan Tanggal    : Jumat, 17 April 2020
  *  Nama (NIM)          : Rhesa Muhammad Ramadhan (13217003);
  *                        Saif Sulthan Shaleh (18318032);
  *                        Faatihah Maurisna Ashfahani (18318036);
