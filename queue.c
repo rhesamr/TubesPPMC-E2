@@ -10,7 +10,6 @@
  *  Nama File           : queue.c
  *  Deskripsi           : File berisi fungsi-fungsi operasi pada queue.
  */
-
 #include "queuestruct.h"
 #include "queue.h"
 
@@ -20,35 +19,29 @@
 
 void enQueue(Queue* q, char katabaru[100])
 {
-    // Create a new LL node
-    QNode* temp = ( QNode*)malloc(sizeof(QNode));
+    QNode* temp = ( QNode*)malloc(sizeof(QNode));                                   // Membuat linked list baru
 	strcpy(temp->kata,katabaru);
 	temp->next = NULL;
 
-    // If queue is empty, then new node is front and rear both
-    if (q->rear == NULL) {
+    if (q->rear == NULL) {                                                          // Keadaan queue kosong, node baru berisi front dan rear
         q->front = q->rear = temp;
         return;
     }
 
-    // Add the new node at the end of queue and change rear
-    q->rear->next = temp;
+    q->rear->next = temp;                                                           // Menambahkan node baru di akhir queue dan mengganti rear
     q->rear = temp;
 }
 
 void deQueue(Queue* q)
 {
-    // If queue is empty, return NULL.
-    if (q->front == NULL)
+    if (q->front == NULL)                                                           // Queue kosong mengembalikan NULL
         return;
 
-    // Store previous front and move front one node ahead
-    QNode* temp = q->front;
+    QNode* temp = q->front;                                                         // Menyimpan front sebelumnya dan memindahkan front node di depan
 
     q->front = q->front->next;
 
-    // If front becomes NULL, then change rear also as NULL
-    if (q->front == NULL)
+    if (q->front == NULL)                                                           // Jika front berupa NULL, rear juga akan NULL
         q->rear = NULL;
 
     free(temp);
