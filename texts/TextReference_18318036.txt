@@ -1,0 +1,357 @@
+Abstrak
+Pengenalan mengenai instrumentasi laboratorium menggunakan multimeter digital,  osiloskop, dan generator sinyal. Hal yang diamati dalam pengukuran menggunakan alat tersebut yaitu arus dan tegangan (AC/DC) dengan berbagai variasi pengukuran, resistansi, kalibrasi, dan beda fasa antara dua gelombang menggunakan dual trace dan Lissajous (x-y). Kemudian mengetahui bagaimana karakteristik BJT input dan Output beserta arus di Ic, Ie, dan Ib dan tegangan di collector dan emitter dalam keadaan bias.
+Kata kunci: Multimeter, osiloskop, generator sinyal, BJT, arus. 
+1.	PENDAHULUAN 
+Penggunaan listrik, mulai dari penerangan, gawai, dan lain sebagainya setiap hari kita gunakan. Sistem kelistrikan yang kita lihat saat ini dapat bekerja dengan baik karena sudah diperhitungkan arus, tegangan, hambatan dan faktor lainnya untuk mencegah terjadinya konsleting (short circuit). 
+Maka dari itu diperlukan penghitungan atau pengukuran yang tepat agar hal tersebut tidak terjadi. Sebelumnya, kita perlu mengetahui instrumentasi-instrumentasi sederhana yang dapat membantu kita mengetahui nilai yang ada pada sistem kelistrikan tersebut. Bagaimana cara kita untuk mengetahuinya? Dalam pembelajaran tentang elektronika, kita perlu mengetahui instrumen-instrumen dasarnya, salah satunya adalah alat yang dapat mengukur tegangan, arus, resistansi, dan kapasitansi. Kemudian, instrumentasi listrik tidak hanya resistor, kapasitor dan sumber tegangan atau arus, masih ada banyak instrumentasi elektronika salah satunya adalah BJT. Bagaimana dengan arus pada BJT dalam input atau output? Selanjutnya saya bahas di subbab berikutnya. 
+2.	STUDI PUSTAKA
+Ada banyak sistem kelistrikan yang ada di sekitar kita, sebenarnya apa itu sistem kelistrikan? kelistrikan adalah gejala alam yang timbul dari polaritas dua garis elementer, yakni proton yang bermuatan positif dan elektron ynag bermuatan negatif. Listrik menurut ilmu fisika dapat diartikan menjadi dua bagian menurut jenisnya, yaitu listrik statis dan listrik dinamis. Menurut Rida Angga [1], listrrik statis adalah suatu energi listrik yang terkandung dalam benda yang memiliki muatan listrik. Sedangkan listrik dinamis menurut Rida Angga [1], adalah energi listrik yang dapat bergerak. 
+Listrik menurut arusnya dibagi menjadi dua yaitu arus AC (Alternating Current) dan arus DC (Direct Current). Menurut Rida Angga [2] AC (Alternating Current) adalah listrik yang besar dan arah arusnya yang selalu berubah-ubah atau bolak-balik sedangkan  DC (Direct Current) menurut Rida Angga [2] adalah arus listrik searah. Arus tersebut yang digunakan dalam pengukuran di multimeter dan osiloskop. Apa itu multimeter dan osiloskop?
+2.1	MULTIMETER
+   
+(a)	                           (b)
+(a)Gambar 2.1.1 Multimeter analog Sanwa YX360TRF, (b) Gambar 2.1.2 Multimeter digital Sanwa CD800a
+Sumber : Internet [5], [6]
+Multimeter atau VOM (volt-ohm-milliammeter) menurut Ghofarudin [3] adalah alat ukur yang dipakai  untuk mengukur tegangan listrik, arus listrik , dan tahanan (resistansi). Multimeter ini dapat dibagi menjadi dua jenis yaitu multimeter analog dan multimeter digital. Multimeter analog adalah multimeter yang mempunyai skala atau batas ukur tertentu. Multimeter analog ini dapat mengukur tegangan AC dan tegangan DC dengan batas ukur tertentu. Berbeda dengan multimeter digital. Multimeter digital adalah  multimeter yang sudah berbasis digital dengan pembacaan nilai yang langsung muncul pada layar multimeter. Multimeter digital ini dapat kita ukur sesuai apa yang ingin kita ukur dengan memutar saklar. Dalam pengukuran tegangan, multimeter ini juga dapat mengukur tegangan AC atau DC. Berbeda dengan multimeter analog, multimeter digital hanya perlu mengubah dengan menekan tombol “select” untuk mengganti apa yang ingin kita tinjau. Selain tegangan, multimeter digital ini dapat mengukur arus, frekuensi, resistansi, dan lain sebagainya. Multimeter digital ini dapat menunjukkan nilai yang lebih akurat daripada multimeter analog sehingga lebih menguntungkan dalam mengetahui nilai yang ingin dicari. 
+2.2 OSILOSKOP
+ 
+Gambar 2.2.1 Osiloskop Digital
+Sumber : Internet [7]
+Osiloskop merupakan alat yang digunakan untuk mengukur tegangan puncak-puncak, tegangan efektif (rms), frekuensi dari bentuk visual gelombang, beda fasa dan masih banyak lagi. Mengutip dari belajarelektronika.com,[6] osiloskop adalah suatu alat ukur elektronik yang digunakan untuk memetakan alias memproyeksikan sinyal listrik serta frekuensi menjadi bentuk gambar grafik agar lebih mudah dibaca dan dipelajari. Artinya, dalam pembacaan sebuah osiloskop diperlukan masukan sinyal gelombang lalu osiloskop akan membaca gelombang tersebut. Osiloskop digital sudah mempunyai display dan hal-hal yang bisa ditinjau seperti gelombang AC, DC, Vpp, Vmaks, Vrms, dan lain sebagainya.
+2.3 GENERATOR SINYAL
+ 
+Gambar 2.3.1 Generator sinyal
+Sumber : Internet [8]
+Generator sinyal adalah alat untuk memberi masukan frekuensi sinyal yang diinginkan. Kita dapat memasukkan frekuensi hingga Mega Hz dengan batas tertentu. Selain itu dengan menggunakan alat ini, kita dapat mengubah bentuk gelombang tertentu menjadi sinusoida, segitiga, dan segi empat. 
+Mengenai alat-alat di atas, ada beberapa hal yang perlu diketahui bahwa suatu alat ukur memiliki kegunaan dan fungsi tertentu sehingga dibutuhkan instrumentasi lain untuk mengukur keakuratan nilai yang diukur.
+2.4 BJT
+ 
+Gambar 2.4.1 BJT
+BJT dalam keadaan bias artinya memberikan suatu tegangan DC dengan arus yang tetap yang menyatakan titik operasi yang menentukan daerah kerja transisitor. BJT dapat terbiaskan dalam daerah aktif dan daerah saturasi yaitu dalam keadaan forward bias dan reversed bias di base emitter dan base collector[9]. 
+3.	METODOLOGI
+Percobaan mengenai pengenalan instrumentasi laboratorium dan karakteristik BJT menggunakan alat bahan sebagai berikut:
+1.	Multimeter digital
+2.	Generator sinyal
+3.	Osiloskop
+4.	Kit BJT
+5.	Kit multimeter
+6.	Kit rangkaian RC
+7.	PEAK Atlas DCA pro
+8.	Resistor variabel
+9.	Kit penguat resistor
+10.	Kabel BNC-BNC
+11.	Kabel BNC-buaya
+12.	Kabel BNC-banana
+13.	Kabel banana-banana
+Percobaan yang akan dilakukan pada percobaan kali ini, sebagai berikut;
+
+
+
+
+
+a.	Mengukur arus searah
+
+
+
+
+
+
+
+
+Diagram ?3.1 Percobaan mengukur arus searah
+b.	Mengukur tegangan searah
+
+
+
+
+
+
+
+
+
+
+Diagram  ?3.2 Percobaan mengukur tegangan searah
+c.	Mengukur tegangan AC
+
+
+
+
+
+
+
+
+
+
+Diagram ?3.3 Percobaan mengukur tegangan AC
+d.	Mengecek kalibrasi
+
+
+
+
+
+
+
+Diagram ?3.4 Percobaan mengecek kalibrasi
+e.	Mengukur tegangan searah 2
+
+
+
+
+
+
+
+
+Diagram ?3.5 Percobaan mengukur tegangan searah 2
+f.	Mengukur tegangan bolak-balik
+
+
+
+
+
+
+
+
+Diagram ?3.6 Percobaan mengukur tegangan 
+bolak-balik
+g.	Mengukur Beda Fasa
+
+
+
+
+
+
+
+
+Diagram ?3.7 Percobaan mengukur beda fasa
+
+
+h.	Mengukur faktor penguatan
+
+
+
+
+
+
+Diagram ?3.8 Percobaan mengukur beda fasa
+i.	Mengukur karakteristik input Ic-Vbe
+
+
+
+
+
+
+
+
+
+
+Diagram ?3.9 Percobaan mengukur karakteristik input BJT
+j.	Mengukur karakteristik output Ic-Vbe
+
+
+
+
+
+
+
+
+
+
+Diagram ?3.10 Percobaan mengukur karakteristik output BJT
+
+
+
+
+
+
+k.	Mengukur Early effect
+
+
+
+
+
+
+Diagram ?3.11 Percobaan mengukur Early effect
+l.	Pengaruh bias pada penguat transistor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diagram ?3.12 Pengaruh bias pada penguat 
+transistor
+4.	HASIL DAN ANALISIS
+4.1 MENGUKUR ARUS SEARAH
+Untuk mengukur arus searah, rangkaian yang disusun secara seri antara power suplai, resistor, dan multimeter. Resistor yang digunakan sebanyak dua resistor sebesar 120 ? dan tegangan sebesar 6 v akan tetapi saat praktikum kami menggunakan tegangan sebesar 5,9 v.
+ 
+Gambar 4.1 Rangkaian seri percobaan pengukuran arus
+Sumber : Petunjuk Praktikum Teknik Biomedis I, hal. 9
+
+Tabel 4.1 Data pengukuran arus dengan multimeter
+Nilai R1 dan R2 (?)	Hitungan	DMM2
+	I (mA)	I(p)
+(mA)
+120	25	23,48
+1,5k	2	1,94
+1,5 M	2x 10-3	0.001
+Dari tabel di atas dapat kita ketahui dalam hasil pengukuran menggunakan perhitungan biasa, nilai yang didapatkan berbeda seiring bertambahnya atau semakin besarnya resistor. Nilai yang terukur pada multimeter digital hasinya mendekati hasil perhitungan walaupun tidak sama karena terddapat beberapa faktor diantaranya toleransi pada pengukuran . seperti yang diketahui pada resistor 1,5M nilainya hampir tidak terdeteksi karena keterbetasan alat ukur. 
+4.2 MENGUKUR TEGANGAN SEARAH
+Untuk mengukur tegangan pada rangkaian paralel, menggunakan dua resistor resistor sebesar 120 ? dan tegangan sebesar 6 v akan tetapi saat praktikum kami menggunakan tegangan sebesar 5,8 v.
+ 
+Gambar 4.2 Rangkaian percobaan tegangan searah
+Sumber : Petunjuk Praktikum Teknik Biomedis I, hal. 10
+
+Tabel 4.2 Data pengukuran tegangan dengan multimeter
+Nilai R1 dan R2 (?)	Hitungan	AMM
+	Vab (v)	Vab(v)
+120	3	2,84
+1,5k	3	2,86
+1,5 M	3	2,74
+Pada tabel di atas, dapat kitaketahui hasil perhitungan biasa untuk tegangan menhasilkan 3v, sedangkan pada pengukuran dihasilkan nilai yang mendekati hasil perhitungan tersebut. Hal ini dikarenakan terdapat toleransi pada perhitungan dan nilai resistor.  
+4.3 MENGUKUR TENGANGAN AC
+Dalam mengukur tegangan dengan arus bolak-balik menggunakan rangkaian paralel dengan membandingkan melalui variasi frekuensi dan bentuk gelombang. Percobaan ini menggunakan alat ukur yangg diberikan masukan sesuai dengan frekuensi yang diinginkan untuk diukur. Pada pengukuran variasi bentuk gelombang, saya menggunakan 50 Hz.
+ 
+Gambar 4.3.1 Rangkaian percobaan tegangan AC 
+Sumber : Petunjuk Praktikum Teknik Biomedis I, hal. 11
+Tabel 4.3 Data pengukuran tegangan AC variasi frekuensi
+Frekuensi
+(Hz)	Sinyal sinusoida
+(v)	Sinyal segitiga
+(v)	Sinyal kotak
+(v)
+50	2,96	2,27	4,47
+500	2,92	2,15	4,75
+5k	2,28	1,75	3,21
+50k	0,22	4m	0,5
+500k	5mV	0,01	0,02
+5M	-	-	-
+Pada tabel di atas, dapat diketahui bahwa seiring bertambhanya atau semakin besar frekuensi mempengaruhi tegangan pada sinyal masing-masing yaitu semakin kecil. Pada sinyal sinusoida, tegangan yang dihasilkan berkisar di ~3v walaupun ada beberapa hasil yang jauh dibawah itu karena keterbatasan alat ukur. Kemudian pada sinyal segitiga juga sama berkisar 2-3V dan ada beberapa hasil jauh dibawah kisaran karena keterbatasan alat ukur. Pada sinyal kotak, tegangan yang dihasilkan berbeda dengan sinyal sinus dan segitiga, yaitu berkisar3-5v. 
+4.4 MENGECEK KALIBRASI
+Dalam percobaan mengenai instrumentasi laboratorium sebelum mengukur sesuatu kita perlu mengecek kalibrasi alat tersebut. Salah satunya adalah mengkalibrasi osiloskop. Berikut ini hasil percobaan kalibrasi osiloskop.
+Tabel 4.4 Pemeriksaaan kondisi kalibrasi osiloskop
+Kanal	Harga kalibrator	Skala pembacaan	Hasil pengukuran
+	Tegangan(v)	Frekuensi (Hz)	Vert. (V/div)	t/div)	Tegangan (V)	Perioda (s)	Frekuensi (Hz)
+1	2	150M	1	250 µ	20,7m	103	1kHz
+2	2	150M	1	250 µ	8mV	103	1kHz
+Pada hasil yang diperoleh kita dapatkan bahwa kalibrasi dari osiloskop menunjukkan hasil yang sesuai atau dengan kata lain osiloskop dalam keadaan baik dan terkalibrasi.
+4.5 MENGUKUR TEGANGAN SEARAH 2
+Dalam mengukur tegangan searah menggunakan dua alat langsung yaitu osiloskop dan multimeter dari power supply sebesar 2 v. Kami menggunakan tegangan sebesar 1,9 v. Hasil pengukuran arus DC sebagai berikut.
+Tabel 4.5 Hasil pengukuran tengangan DC dengan multimeter dan osiloskop
+Tengangan terukur (v)
+Multimeter	Osiloskop Ch1	Osiloskop Ch 2
+1,8 V	1,91 V	1,837 V
+Dari hasil pengukuran yang didapatkan, pengukuran pada multimeter dan osiloskop hampir sama berkisar ~2v, perbedaan tegangan sedikit terjadi karena beberapa faktor seperti keakurasian alat dan noise pada osiloskop atau pengaruh yang dilakukan kami sebagai pengamat. 
+4.6 MENGUKUR TEGANGAN BOLAK-BALIK
+Mengukur tengangan AC menggunakan masukan variasi frekuensi  Hz menggunakan osiloskop.
+ 
+(a)
+ 
+(b)
+(a)Gambar 4.3.1 hasil osiloskop untuk 100Hz
+(ab)Gambar 4.3.2 hasil osiloskop untuk 10kHz
+Tabel 4.86 Hasil pengukuran tegangan AC dengan multimeter dan osiloskop
+Tengangan bolak-balik (v)
+1kHz	100Hz	10kHz
+5,8 V	5,88 V	5,88 V
+Pada hasil yang didapatkan di atas, nilai frekuensi tidak mengubah nilai tegangan yang di hasilkan berkisar `5-6V. Pada percobaan 4.3 nilai frekuensi mempengaruhi nilai tegangan walaupun sedikit tetapi tetap pada kisaran yang ada. 
+4.7 MENGUKUR BEDA FASA
+Pengukuran beda fasa menggunakan kit osiloskop dan generator sinyal yang memberi masukan frekuensi sebesar 1k Hz dan 2Vpp dan mengukur dengan cara Dual trace dan Lissajous.
+
+
+
+
+
+
+
+
+Tabel 4.7 Hasil pengukuran beda fasa dengan osiloskop
+Posisi tombol
+±% maks	Dual Trace
+	Sketsa tampilan	? (o)
+Lissajous	 
+ 	Sin-1 d/c
+= 0.07
+Dual trace	 
+ 	0,1*360=36
+Dari hasil di atas, nilai beda fasa pada dual trace dan lissajous berbeda. Hal ini bisa terjadi karena pada keadaan dual trace, dapat digunakan jika frekuensi generator sinyal dan frekuensi sinyal sama. Nilai pada metode liisajouss lebih baik dibandingkan dengan dual trace dengan beda fasa sebesar 36 derajat.
+4.8  MENGUKUR FAKTOR PENGUATAN
+Percobaan ini menggunakan kit osiloskop dan generator sinyal dengan masukan frekuensi gelombang sinusoida sebesar 1k Hz dan   sumber 2v lalu mengukur penguatan (Vo/Vi) menggunakan cara Dual Trace dan Lissajous.
+
+
+
+
+
+
+
+
+
+Tabel 4.8 Hasil faktor penguatan menggunakan osiloskop
+Dual Trace	Vo/vi
+ 
+ 	29,38
+Lissajouss 	0.11
+ 
+ 	
+Dari hasil pengamatan nilai yang dihsilkan pada metode lissajouss tidak terlalu terlihat dengan gelombang yang terbentuk. Sehingga penguatan pada dual trace ddapat lebih terpercaya karena frekuensi generator sinyal sama dengan frekuensi sinyal yang terukur.
+4.9 KARAKTERISTIK INPUT TRANSISTOR IC/VBE
+Pada percobaan kali ini DCA Atlas pro yang dihubungkan dengan kaki BJT dengan input Vce 0-10V point 11 dan Vbe 0-1v point 11, didapatkan sebagai berikut;
+ 
+Gambar 4.9.1 grafik Ic/Vbe
+Pada grafik yang ditampilkan di atas, semakin besar tegangannya nilai Icnya semakin besar, trelihat dari grafik dari 0 v hingga 0,7 v untuk Vce 0-10V. Hal ini dikarenakan jaren arus berbanding lurus dengan nilai v pada input. 
+4.10 KARAKTERISTIK OUTPUT TRANSISTOR IC/VCE
+Pada percobaan kali ini DCA Atlas pro yang dihubungkan dengan kaki BJT dengan input Vce 0-12V point 26 dan iB 0-1µa point 11, didapatkan sebagai berikut;
+ 
+ Gambar 4.10.1 Grafik Ic/Vce
+Pada grafik di atas, antara Ib dari 0-1µA, terlihat terjadi grafik naik lalu terjadi keadaan saturasi lalu sedikit stabil. Dengan nilai yang relatif sama walaupun nilai aru terus bertambah dengan keadaan saturasi. 
+4.11 TEGANGAN EARLY
+Menggunakan grafik percobaan 4.10, memilih 2 titik koordinat dari Grafik Ic/Vce dan menghitungnya dengan rumus;
+ 
+Gambar 4.11.1 Rumus tegangan early
+Sumber : Praktikum Teknik Biomedis I, hal. 15
+ 
+(a)
+ (b)
+(a)Gambar 4.11.1 koordinat 1.1
+(b) Gambar 4.11.2 koordinat 1.1
+Dari grafik di ata dengan nilai V1, I1 0=7514 V, 1,796mA dan pada V2,I2=1,695V, 1,804mA. Didaptkan nilai tegangan early 0.1567 v
+ (a)
+ (b)
+(a)Gambar 4.11.3 koordinat 2.1
+(b)Gambar 4.11.4 koordinat 2.2
+Dari grafik di ata dengan nilai V1, I1 0=7517 V, 1,796mA dan pada V2,I2=1,695V, 1,804mA. Didaptkan nilai tegangan early 0.1567 v. Sehingga kita mendapatkan kesimpulan bahwa, tegangan early tetap sama walaupun berbeda arus Ib yang ditinjau. 
+4.12 PENGARUH BIAS PENGUAT TRANSISTOR
+Merangkar rangkaian seperti dibawah dan memvariasikan resistor hingga tegangan Vce 8,5,2 V dan mengukur arus Ib, Ie, Ic, dengan gelombang sinus 1kHz dan 20mVpp sebagai berikut;
+ 
+Gambar 4.12.1 rangkaian bias BJT
+Sumber : Praktikum Teknik Biomedis I, hal. 16
+ (a)
+ (b)
+ 
+(c)
+ 
+(d)
+(a)Gambar 4.12.2 hasil gelombang 2V;(b)Gambar 4.12.3 hasil gelombang 8V;(c)Gambar 4.12.4 hasil gelombang 5V; (d)Gambar 4.12.5 hasil amplitudo mendekati distorsi
+Dari percobaan di atas, pada pengukuran dengan tegangan yang diharapkan adalah 2v. Dengannilai resistor perkiraan 12,15k ?. Didapatkan pengukuran dengan 2,071 v pada nilai R 12,63k ?, dan arus yang terukur Ib 11,798µA. Kemudian, pada tegangan yang diharap 8v dengan resistor perkiraan 10,52k?. Pada pengukuran terukur 7,98 V dengan R= 9,75k ?, dengan arus yang terukur 1,926µA. Kemudian pada tegangan 5 v dan resistor perkiraan 11,38k?, tegangan yang terukur5,04 v dan R= 10,74k?. Dengan arus yang terukur Ib= 4,937 µA, Ic= 19,386 µA, dan Ie=131,41 µA. 
+Dari nilai yang terukur dapat kita lihat bahwa seiring bertambahnya tegangan nilai resistornya makin kecil dengan arus di Ib berbanding terbalik dengan  tegangan, semakin kecil arus semakin besar tegangannya. Untuk Ic dan Ie yang terukur pada 5V nilai Ib<Ic<Ie.
+Kemudian pada gambar 4.12.5 menunjukkan keadaan distorsi saat amplitudonya 9,8 Vpp dengan frekuensi 1kHz . Pada tegangan 2 v distorsi dapat terlihat pada gelombang sedangkan pada 8 v dan 5 v, gelombang tidak terjadi distorsi mungki hal ini dapat atau bisa terjadi karena resisitor atau Rvar yang terukut tidak cukup tepat dan faktor lain seperti noise dan lain sebagainya.  
+5.	KESIMPULAN
+Dari percobaan di atas , dapat kita ketahui bahwa nilai arus searah seiring dengan bertambhanya nilai resistor semakin kecil. Kemudian pada tegangan searah, nilai resistor tidak mempengaruhi nilai tegangan ynag terukur. Pada tegangan Ac, semakin bertambahnya frekunsi nilai tegangan yang terukur pada sinya sgitiga dan sinusoidal berkisar pada nilai yang sama, sedangkan pada sinyal kotak nilai tegangan berbeda dengan sinyal sinus dan segitiga tetapi tetap dikisaran tegangan yang sama. Hal tersebut juga terjadi pada percobaan tegangan searah 2 yang dukur pada arus DC dimana tegangan tetap sama. Kemudian, tegangan bolak-balik 2 yang nilai sama seiring bertambahnya frekuensi dengan kisaran nilai yang sama. Pengukuran beda fasa pada kasus Rangkaian RC dan faktor penguatan terjadi pada frekuensi generaor sinyal dan frekuensi sinyal terukur sama sehingga dual trace cocok digunakan dalam pengukuran beda fasa, dan faktor penguatan. 
+Kemudian pada karakteristik BJT input dan output seiring dengan mingkatnya tegangan arus juga akan meningkat, kemudian pada outputnya terjadi keadaan saturasi hingga stabil kembali dengan nilai arus yang semakin meningkat tegangan tetap sama dan mengalmi satuasi. Early effect di berbagai titik tetap sama, dan pengaruh bias pada BJT semakin kecil nilai tegangan resistor akan semakin besar. 
+DAFTAR PUSTAKA
+[1]	https://skemaku.com/pengertian-listrik/, 27 Agustus 2019, 23.41.
+[2]	https://skemaku.com/pengertian-arus-listrik-ac-dan-dc-serta-pemanfaatannya/, 27 Agustus 2019, 23.58.
+[3]	https://ghofarudin.wordpress.com/2012/08/18/pengertian-dan-fungsi-multimeter/, 28 Agustus 2019, 00.08.
+[4]	https://belajarelektronika.net/pengertian-osiloskop-kegunaan-dan-cara-kerjanya/, 28 Agustus 2019, 07.38.
+[5]	https://img.biggo.com.tw/sqYlthcnjN7R-29YvBPcd7VacTuTYTN4qIubdtQ-nb3k/https://my-live.slatic.net/original/979adfeab76217ec2267428cea4a6afb.jpg, 28 Agustus 2019, 18.46.
+[6]	https://moedah.com/wp-content/uploads/2014/12/digital-multimeter-sanwa.jpg, 28 Agustus 2019, 18.50.
+[7]	http://1.bp.blogspot.com/-6bh4AQ4Bzpc/VZjE4z2ShII/AAAAAAAAAOU/CgllR87TNGg/s1600/osiloskop.jpg, 28 Agustus 2019, 19.11.
+[8]	https://3.bp.blogspot.com/-zLoSqHKVDgg/VGC6_CaD-EI/AAAAAAAAACk/pIem0ntgAr8/s1600/GENERATOR.jpg, 28 Agustus 2019, 19.17.
+[9]	https://www.academia.edu/10110066/Bias-dalam-transistor-bjt. 31 Januari 2020. 06.14.
